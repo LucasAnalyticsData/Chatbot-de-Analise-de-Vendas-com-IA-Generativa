@@ -1,0 +1,401 @@
+id_produto,nome_produto,descricao,categoria,sub_categoria,tamanho,cor,preco_unitario,estoque_disponivel
+101,Saias Curta Estilo 45,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,38,Laranja,478.84,183
+102,Moletom Street Estilo 3,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,P,Bordô,374.35,123
+103,Calças Jeans Estilo 32,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,42,Rosa Bebê,387.06,400
+104,Jaquetas Casual Estilo 12,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,40,Turquesa,487.36,477
+105,Calças Jeans Estilo 40,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,XG,Branco,47.49,388
+106,Calças Legging Estilo 49,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,38,Laranja,326.61,20
+107,Vestidos Curto Estilo 7,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,42,Cinza,92.51,331
+108,Acessórios Lenço Estilo 13,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,XG,Amarelo,235.53,151
+109,Jaquetas Couro Estilo 48,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,G,Cinza,412.4,419
+110,Jaquetas Casual Estilo 38,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,P,Bege,481.02,54
+111,Jaquetas Casual Estilo 9,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,P,Rosa Bebê,393.86,295
+112,Acessórios Cinto Estilo 22,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,G,Bege,372.99,471
+113,Acessórios Chapéu Estilo 13,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,GG,Laranja,418.86,261
+114,Shorts Praia Estilo 40,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,44,Bordô,94.7,39
+115,Blusas Off Shoulder Estilo 41,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,40,Bordô,63.21,45
+116,Vestidos Curto Estilo 7,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,M,Amarelo,138.27,312
+117,Acessórios Meia Estilo 2,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,GG,Bordô,471.99,477
+118,Saias Godê Estilo 46,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Godê,38,Branco,439.95,85
+119,Saias Midi Estilo 35,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,46,Vermelho,430.9,482
+120,Acessórios Meia Estilo 26,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,46,Preto,286.49,461
+121,Calças Legging Estilo 17,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,P,Preto,188.78,138
+122,Jaquetas Inverno Estilo 49,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,P,Azul Marinho,125.89,423
+123,Shorts Esportivo Estilo 16,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,42,Branco,408.56,293
+124,Camisetas Manga Longa Estilo 5,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Manga Longa,40,Laranja,377.37,480
+125,Calças Legging Estilo 9,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,XG,Marrom,49.52,23
+126,Blusas Cropped Estilo 42,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,38,Cinza,254.37,405
+127,Jaquetas Casual Estilo 4,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,P,Turquesa,397.36,105
+128,Acessórios Chapéu Estilo 44,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,P,Roxo,256.52,203
+129,Moletom Escolar Estilo 28,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Escolar,40,Roxo,94.65,229
+130,Calças Moletom Estilo 23,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,GG,Rosa Bebê,235.07,34
+131,Jaquetas Couro Estilo 6,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,46,Preto,136.65,387
+132,Acessórios Cinto Estilo 1,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,GG,Bordô,56.64,34
+133,Vestidos Tubinho Estilo 12,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,XG,Preto,177.54,313
+134,Jaquetas Inverno Estilo 9,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,46,Cinza,254.89,67
+135,Calças Jeans Estilo 17,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,44,Vermelho,262.52,381
+136,Shorts Jeans Estilo 29,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,XG,Rosa Bebê,396.6,154
+137,Jaquetas Inverno Estilo 21,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,44,Roxo,78.96,182
+138,Moletom Unissex Estilo 18,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,M,Vermelho,458.56,435
+139,Acessórios Lenço Estilo 20,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,44,Vermelho,87.59,376
+140,Vestidos Midi Estilo 16,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,42,Bege,389.07,492
+141,Calças Jeans Estilo 32,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,P,Verde Militar,160.54,201
+142,Saias Midi Estilo 4,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,XG,Bordô,316.48,258
+143,Camisetas Cropped Estilo 25,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,42,Preto,135.39,199
+144,Vestidos Tubinho Estilo 35,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,P,Bege,173.32,282
+145,Shorts Esportivo Estilo 39,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,38,Bordô,456.4,419
+146,Jaquetas Casual Estilo 22,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,46,Cinza,436.8,405
+147,Camisetas T-shirts Estilo 36,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,40,Marrom,468.16,152
+148,Acessórios Chapéu Estilo 28,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,46,Marrom,297.0,270
+149,Saias Curta Estilo 25,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,42,Marrom,496.43,126
+150,Vestidos Midi Estilo 18,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,XG,Branco,499.34,399
+151,Acessórios Meia Estilo 22,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,46,Cinza,48.04,145
+152,Shorts Praia Estilo 43,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,XG,Turquesa,336.82,400
+153,Camisetas T-shirts Estilo 20,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,46,Bege,180.77,140
+154,Vestidos Tubinho Estilo 30,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,P,Amarelo,34.07,23
+155,Shorts Social Estilo 41,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,44,Vermelho,221.95,301
+156,Calças Moletom Estilo 40,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,44,Rosa Bebê,477.95,230
+157,Vestidos Curto Estilo 50,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,XG,Verde Militar,438.36,70
+158,Jaquetas Couro Estilo 10,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,46,Bege,53.2,63
+159,Camisetas Regatas Estilo 44,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,44,Bordô,236.85,167
+160,Camisetas Regatas Estilo 4,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,XG,Verde Militar,37.48,437
+161,Shorts Esportivo Estilo 39,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,GG,Rosa Bebê,81.21,264
+162,Blusas Tricô Estilo 33,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Tricô,M,Vermelho,125.8,297
+163,Shorts Social Estilo 5,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,40,Verde Militar,97.15,172
+164,Shorts Praia Estilo 27,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,38,Amarelo,472.87,155
+165,Camisetas Regatas Estilo 24,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,P,Verde Militar,467.15,471
+166,Camisetas T-shirts Estilo 39,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,GG,Turquesa,177.06,371
+167,Acessórios Meia Estilo 14,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,40,Bordô,303.76,341
+168,Vestidos Tubinho Estilo 49,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,M,Branco,480.45,119
+169,Acessórios Chapéu Estilo 35,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,M,Bordô,442.79,413
+170,Camisetas Cropped Estilo 43,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,44,Roxo,237.18,142
+171,Jaquetas Inverno Estilo 16,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,38,Vermelho,405.43,190
+172,Jaquetas Corta-Vento Estilo 21,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,M,Marrom,143.19,380
+173,Moletom Feminino Estilo 6,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,38,Roxo,267.55,473
+174,Shorts Social Estilo 39,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,GG,Amarelo,399.46,122
+175,Vestidos Longo Estilo 50,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,40,Bege,304.74,75
+176,Saias Plissada Estilo 22,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,38,Branco,68.21,220
+177,Acessórios Lenço Estilo 37,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,42,Bege,444.18,106
+178,Vestidos Tubinho Estilo 1,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,G,Branco,226.65,396
+179,Acessórios Chapéu Estilo 48,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,M,Azul Marinho,438.55,431
+180,Moletom Street Estilo 45,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,G,Branco,92.12,448
+181,Acessórios Chapéu Estilo 28,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,38,Azul Marinho,218.99,290
+182,Jaquetas Inverno Estilo 8,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,38,Bordô,452.13,307
+183,Calças Jeans Estilo 5,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,38,Amarelo,457.92,327
+184,Blusas Off Shoulder Estilo 19,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,42,Marrom,93.16,98
+185,Acessórios Cinto Estilo 10,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,P,Laranja,308.63,350
+186,Blusas Off Shoulder Estilo 21,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,42,Azul Marinho,268.97,306
+187,Saias Midi Estilo 15,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,XG,Amarelo,190.23,293
+188,Acessórios Chapéu Estilo 19,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,38,Cinza,179.63,96
+189,Vestidos Midi Estilo 48,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,GG,Cinza,273.89,299
+190,Shorts Esportivo Estilo 23,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,XG,Azul Marinho,85.62,145
+191,Blusas Off Shoulder Estilo 15,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,G,Verde Militar,471.33,137
+192,Calças Social Estilo 43,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,XG,Azul Marinho,75.01,287
+193,Acessórios Lenço Estilo 2,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,46,Preto,481.03,281
+194,Acessórios Lenço Estilo 1,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,42,Bordô,416.43,194
+195,Jaquetas Inverno Estilo 37,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,40,Marrom,238.97,69
+196,Blusas Gola Alta Estilo 8,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,M,Amarelo,447.67,257
+197,Saias Midi Estilo 9,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,XG,Marrom,344.2,500
+198,Shorts Esportivo Estilo 48,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,GG,Marrom,64.84,85
+199,Acessórios Meia Estilo 18,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,42,Bege,375.6,349
+200,Calças Moletom Estilo 3,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,40,Branco,468.11,411
+201,Acessórios Meia Estilo 13,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,44,Bege,423.59,325
+202,Camisetas T-shirts Estilo 16,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,G,Laranja,206.72,487
+203,Jaquetas Couro Estilo 17,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,42,Azul Marinho,257.62,100
+204,Blusas Gola Alta Estilo 9,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,GG,Bege,441.56,491
+205,Acessórios Lenço Estilo 1,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,40,Branco,260.52,317
+206,Jaquetas Couro Estilo 3,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,40,Marrom,153.54,199
+207,Jaquetas Inverno Estilo 31,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,44,Bege,478.44,454
+208,Saias Curta Estilo 19,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,42,Amarelo,404.37,205
+209,Shorts Social Estilo 19,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,M,Vermelho,82.71,456
+210,Saias Godê Estilo 29,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Godê,38,Vermelho,341.24,64
+211,Vestidos Tubinho Estilo 21,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,M,Rosa Bebê,357.48,365
+212,Vestidos Tubinho Estilo 32,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,46,Cinza,352.89,19
+213,Saias Plissada Estilo 33,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,GG,Bordô,397.83,36
+214,Acessórios Meia Estilo 17,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,38,Cinza,213.85,231
+215,Moletom Unissex Estilo 17,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,P,Verde Militar,258.09,117
+216,Shorts Esportivo Estilo 20,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,42,Cinza,133.92,453
+217,Vestidos Longo Estilo 50,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,M,Laranja,316.95,71
+218,Acessórios Cinto Estilo 47,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,P,Turquesa,208.12,404
+219,Shorts Praia Estilo 50,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,44,Branco,337.72,270
+220,Jaquetas Inverno Estilo 35,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,GG,Azul Marinho,423.83,207
+221,Jaquetas Inverno Estilo 11,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,38,Rosa Bebê,224.2,288
+222,Jaquetas Casual Estilo 3,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,P,Turquesa,471.87,57
+223,Acessórios Chapéu Estilo 32,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,P,Azul Marinho,162.95,17
+224,Jaquetas Couro Estilo 3,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,XG,Marrom,88.01,406
+225,Moletom Unissex Estilo 9,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,XG,Bordô,69.81,42
+226,Acessórios Chapéu Estilo 2,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,P,Marrom,420.12,314
+227,Vestidos Midi Estilo 48,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,46,Turquesa,213.73,430
+228,Saias Plissada Estilo 28,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,44,Marrom,40.91,145
+229,Blusas Cropped Estilo 7,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,XG,Bege,300.71,197
+230,Saias Godê Estilo 6,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Godê,GG,Cinza,293.57,252
+231,Saias Curta Estilo 25,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,P,Amarelo,371.85,492
+232,Shorts Esportivo Estilo 29,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,GG,Laranja,488.24,208
+233,Jaquetas Corta-Vento Estilo 24,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,42,Laranja,81.11,164
+234,Shorts Jeans Estilo 41,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,M,Branco,293.52,111
+235,Blusas Cropped Estilo 6,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,G,Cinza,319.65,247
+236,Acessórios Lenço Estilo 4,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,42,Verde Militar,223.47,384
+237,Shorts Jeans Estilo 3,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,38,Marrom,295.6,213
+238,Camisetas Manga Longa Estilo 45,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Manga Longa,GG,Turquesa,294.23,255
+239,Acessórios Chapéu Estilo 21,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,GG,Rosa Bebê,246.74,252
+240,Acessórios Cinto Estilo 7,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,40,Marrom,66.33,70
+241,Camisetas Regatas Estilo 34,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,M,Azul Marinho,122.66,450
+242,Calças Jeans Estilo 28,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,42,Azul Marinho,324.2,273
+243,Blusas Cropped Estilo 48,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,44,Cinza,217.62,156
+244,Calças Legging Estilo 19,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,XG,Roxo,181.42,460
+245,Shorts Jeans Estilo 10,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,XG,Roxo,351.86,416
+246,Shorts Praia Estilo 31,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,42,Vermelho,469.92,479
+247,Vestidos Longo Estilo 34,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,42,Preto,179.21,96
+248,Vestidos Tubinho Estilo 5,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,P,Verde Militar,359.59,107
+249,Calças Legging Estilo 22,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,M,Preto,323.64,309
+250,Vestidos Midi Estilo 23,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,44,Vermelho,192.03,12
+251,Jaquetas Inverno Estilo 19,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,40,Laranja,372.68,193
+252,Moletom Feminino Estilo 36,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,44,Bege,339.8,44
+253,Vestidos Midi Estilo 47,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,GG,Verde Militar,113.71,293
+254,Calças Social Estilo 34,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,46,Bege,389.95,174
+255,Saias Godê Estilo 14,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Godê,G,Preto,398.08,115
+256,Calças Social Estilo 10,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,G,Amarelo,440.97,170
+257,Calças Jeans Estilo 9,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,44,Turquesa,236.55,345
+258,Blusas Gola Alta Estilo 20,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,44,Turquesa,85.03,291
+259,Moletom Unissex Estilo 50,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,40,Marrom,252.9,164
+260,Acessórios Meia Estilo 34,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,M,Laranja,425.73,494
+261,Vestidos Curto Estilo 46,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,G,Bordô,235.4,231
+262,Blusas Gola Alta Estilo 44,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,M,Roxo,452.79,338
+263,Shorts Jeans Estilo 2,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,38,Bordô,248.96,348
+264,Shorts Social Estilo 14,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,46,Roxo,441.76,476
+265,Jaquetas Corta-Vento Estilo 24,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,G,Marrom,497.76,105
+266,Blusas Gola Alta Estilo 34,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,GG,Preto,305.41,173
+267,Calças Moletom Estilo 17,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,44,Preto,315.08,22
+268,Saias Godê Estilo 26,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Godê,P,Marrom,360.9,145
+269,Camisetas T-shirts Estilo 46,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,42,Laranja,327.05,256
+270,Vestidos Tubinho Estilo 48,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,44,Turquesa,78.73,194
+271,Camisetas Regatas Estilo 46,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,G,Bordô,429.84,47
+272,Moletom Street Estilo 4,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,42,Bege,363.88,165
+273,Calças Moletom Estilo 13,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,46,Marrom,37.74,433
+274,Shorts Jeans Estilo 38,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,38,Roxo,36.56,345
+275,Moletom Unissex Estilo 43,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,P,Branco,120.58,394
+276,Acessórios Lenço Estilo 47,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,XG,Branco,111.02,27
+277,Saias Curta Estilo 45,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,44,Cinza,111.2,387
+278,Camisetas Manga Longa Estilo 18,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Manga Longa,44,Rosa Bebê,85.23,243
+279,Calças Legging Estilo 6,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,M,Branco,115.68,49
+280,Vestidos Curto Estilo 38,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,P,Turquesa,109.49,10
+281,Jaquetas Inverno Estilo 30,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,M,Marrom,473.22,162
+282,Jaquetas Couro Estilo 20,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,P,Cinza,361.68,96
+283,Saias Curta Estilo 37,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,38,Cinza,136.1,101
+284,Saias Curta Estilo 12,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,XG,Verde Militar,357.75,140
+285,Calças Legging Estilo 23,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,46,Rosa Bebê,193.86,333
+286,Acessórios Chapéu Estilo 41,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,G,Preto,476.24,304
+287,Moletom Escolar Estilo 35,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Escolar,46,Vermelho,496.97,227
+288,Shorts Praia Estilo 14,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,38,Marrom,485.09,287
+289,Saias Midi Estilo 33,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,GG,Verde Militar,132.48,138
+290,Camisetas T-shirts Estilo 34,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,G,Amarelo,95.61,305
+291,Shorts Praia Estilo 37,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,40,Bege,306.44,22
+292,Shorts Esportivo Estilo 41,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,38,Bordô,453.38,86
+293,Moletom Unissex Estilo 22,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,38,Bege,454.3,100
+294,Shorts Praia Estilo 11,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,42,Roxo,117.4,16
+295,Blusas Off Shoulder Estilo 38,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,46,Marrom,234.34,209
+296,Blusas Cropped Estilo 17,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,38,Laranja,188.7,352
+297,Moletom Feminino Estilo 3,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,GG,Turquesa,469.23,479
+298,Acessórios Cinto Estilo 27,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,40,Turquesa,156.5,300
+299,Moletom Street Estilo 11,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,44,Azul Marinho,463.41,458
+300,Acessórios Lenço Estilo 37,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,G,Azul Marinho,341.7,408
+301,Camisetas T-shirts Estilo 20,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,G,Turquesa,192.57,207
+302,Vestidos Tubinho Estilo 1,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,G,Vermelho,444.89,159
+303,Saias Midi Estilo 12,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,GG,Bordô,125.46,51
+304,Jaquetas Couro Estilo 44,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,44,Bordô,394.44,7
+305,Blusas Cropped Estilo 23,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,M,Amarelo,288.32,206
+306,Jaquetas Corta-Vento Estilo 43,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,40,Bordô,247.74,129
+307,Calças Legging Estilo 9,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,38,Turquesa,469.47,209
+308,Shorts Praia Estilo 44,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,40,Laranja,215.01,41
+309,Shorts Social Estilo 43,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,46,Preto,134.1,316
+310,Vestidos Longo Estilo 24,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,38,Rosa Bebê,265.58,5
+311,Moletom Street Estilo 42,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,GG,Azul Marinho,264.88,27
+312,Jaquetas Inverno Estilo 28,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,M,Rosa Bebê,210.41,97
+313,Moletom Escolar Estilo 19,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Escolar,XG,Cinza,347.28,251
+314,Camisetas Manga Longa Estilo 27,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Manga Longa,G,Azul Marinho,217.06,269
+315,Calças Legging Estilo 6,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,38,Bege,374.26,340
+316,Moletom Street Estilo 11,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,38,Azul Marinho,300.0,201
+317,Blusas Tricô Estilo 32,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Tricô,40,Cinza,392.44,160
+318,Moletom Feminino Estilo 48,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,M,Laranja,409.25,470
+319,Blusas Gola Alta Estilo 50,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,42,Marrom,187.38,278
+320,Shorts Esportivo Estilo 12,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,40,Roxo,386.92,450
+321,Calças Social Estilo 1,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,38,Marrom,307.27,106
+322,Acessórios Chapéu Estilo 28,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,P,Amarelo,162.31,67
+323,Blusas Off Shoulder Estilo 24,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,P,Laranja,352.5,134
+324,Moletom Feminino Estilo 44,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,XG,Turquesa,414.91,282
+325,Saias Curta Estilo 19,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,38,Cinza,38.13,171
+326,Saias Midi Estilo 39,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,M,Rosa Bebê,373.9,277
+327,Moletom Escolar Estilo 12,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Escolar,M,Roxo,74.35,377
+328,Vestidos Tubinho Estilo 28,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,XG,Rosa Bebê,486.67,357
+329,Jaquetas Corta-Vento Estilo 3,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,M,Rosa Bebê,205.11,80
+330,Calças Legging Estilo 33,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,M,Rosa Bebê,465.8,388
+331,Saias Godê Estilo 26,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Godê,P,Azul Marinho,476.57,136
+332,Calças Legging Estilo 8,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,GG,Laranja,152.56,160
+333,Acessórios Lenço Estilo 45,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,P,Rosa Bebê,299.37,115
+334,Moletom Feminino Estilo 48,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,G,Verde Militar,265.63,28
+335,Moletom Escolar Estilo 44,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Escolar,XG,Verde Militar,32.27,111
+336,Camisetas Cropped Estilo 43,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,G,Verde Militar,155.42,311
+337,Shorts Esportivo Estilo 15,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,GG,Preto,363.13,118
+338,Calças Moletom Estilo 47,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,46,Bordô,246.4,220
+339,Shorts Social Estilo 31,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,44,Preto,191.09,168
+340,Shorts Social Estilo 10,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,42,Bordô,378.91,112
+341,Acessórios Lenço Estilo 44,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,40,Verde Militar,219.28,343
+342,Calças Legging Estilo 36,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,38,Branco,127.45,276
+343,Shorts Praia Estilo 19,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,38,Amarelo,346.92,20
+344,Vestidos Longo Estilo 40,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,38,Laranja,232.72,396
+345,Camisetas Manga Longa Estilo 36,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Manga Longa,42,Vermelho,206.28,280
+346,Vestidos Tubinho Estilo 39,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,M,Branco,215.9,113
+347,Calças Moletom Estilo 12,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,G,Turquesa,395.34,381
+348,Moletom Unissex Estilo 23,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,GG,Cinza,453.12,147
+349,Shorts Praia Estilo 41,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,M,Bege,445.74,496
+350,Shorts Social Estilo 15,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,40,Amarelo,385.61,151
+351,Blusas Cropped Estilo 12,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,40,Verde Militar,31.47,429
+352,Shorts Social Estilo 42,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,G,Bege,456.32,201
+353,Moletom Unissex Estilo 27,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,GG,Bege,43.55,119
+354,Vestidos Midi Estilo 39,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,46,Marrom,222.02,16
+355,Shorts Jeans Estilo 11,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,46,Bege,251.7,51
+356,Shorts Esportivo Estilo 48,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,46,Turquesa,337.33,287
+357,Acessórios Lenço Estilo 11,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,42,Rosa Bebê,369.74,127
+358,Vestidos Tubinho Estilo 46,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,GG,Rosa Bebê,92.25,38
+359,Camisetas Regatas Estilo 37,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,42,Amarelo,145.07,313
+360,Blusas Cropped Estilo 12,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,42,Roxo,331.35,416
+361,Shorts Jeans Estilo 16,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,42,Marrom,482.26,8
+362,Camisetas Cropped Estilo 34,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,42,Bordô,211.0,405
+363,Moletom Feminino Estilo 46,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,44,Branco,366.32,315
+364,Acessórios Cinto Estilo 29,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,42,Bordô,371.13,154
+365,Moletom Street Estilo 24,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,40,Marrom,465.77,327
+366,Blusas Off Shoulder Estilo 8,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,M,Azul Marinho,428.02,393
+367,Calças Social Estilo 24,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,40,Bege,189.62,472
+368,Jaquetas Corta-Vento Estilo 14,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,XG,Branco,185.01,360
+369,Calças Legging Estilo 46,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,42,Turquesa,144.92,138
+370,Shorts Praia Estilo 45,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,42,Rosa Bebê,399.97,363
+371,Saias Plissada Estilo 39,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,P,Turquesa,95.71,272
+372,Saias Midi Estilo 15,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,38,Laranja,200.38,154
+373,Saias Curta Estilo 37,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,XG,Amarelo,365.05,349
+374,Saias Curta Estilo 48,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,G,Azul Marinho,315.4,444
+375,Moletom Feminino Estilo 41,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,GG,Preto,429.83,303
+376,Saias Curta Estilo 38,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,P,Verde Militar,201.06,265
+377,Acessórios Chapéu Estilo 31,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,46,Azul Marinho,486.93,334
+378,Vestidos Curto Estilo 34,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,38,Cinza,436.64,253
+379,Vestidos Tubinho Estilo 12,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,42,Cinza,36.59,489
+380,Calças Moletom Estilo 15,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,XG,Vermelho,135.33,147
+381,Calças Social Estilo 23,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,42,Amarelo,297.52,331
+382,Camisetas Regatas Estilo 48,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,GG,Rosa Bebê,342.09,209
+383,Calças Moletom Estilo 33,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,M,Verde Militar,289.94,278
+384,Acessórios Cinto Estilo 4,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,42,Laranja,275.69,130
+385,Saias Curta Estilo 45,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,GG,Vermelho,354.03,238
+386,Vestidos Midi Estilo 39,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,XG,Roxo,160.31,385
+387,Jaquetas Casual Estilo 9,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,44,Verde Militar,58.51,121
+388,Jaquetas Corta-Vento Estilo 30,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,M,Roxo,444.27,31
+389,Shorts Esportivo Estilo 13,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Esportivo,42,Branco,237.59,248
+390,Jaquetas Casual Estilo 35,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,46,Vermelho,311.1,158
+391,Camisetas Cropped Estilo 8,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,42,Turquesa,331.93,306
+392,Blusas Tricô Estilo 17,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Tricô,40,Laranja,157.15,328
+393,Vestidos Curto Estilo 33,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,42,Roxo,163.27,335
+394,Saias Plissada Estilo 35,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,GG,Rosa Bebê,159.29,292
+395,Acessórios Meia Estilo 41,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,42,Branco,489.2,489
+396,Vestidos Tubinho Estilo 1,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,38,Roxo,251.04,88
+397,Vestidos Midi Estilo 49,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,40,Bege,173.08,478
+398,Blusas Gola Alta Estilo 41,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,44,Bordô,115.75,403
+399,Calças Social Estilo 14,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,XG,Roxo,173.43,397
+400,Acessórios Chapéu Estilo 7,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,XG,Laranja,128.74,349
+401,Vestidos Curto Estilo 11,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,GG,Turquesa,216.13,92
+402,Vestidos Longo Estilo 21,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,44,Amarelo,337.04,408
+403,Moletom Feminino Estilo 15,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,XG,Amarelo,469.04,432
+404,Saias Plissada Estilo 10,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,XG,Rosa Bebê,371.45,429
+405,Shorts Social Estilo 20,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,40,Laranja,214.86,218
+406,Camisetas Cropped Estilo 4,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,40,Rosa Bebê,333.42,76
+407,Blusas Gola Alta Estilo 2,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,GG,Vermelho,341.07,136
+408,Saias Plissada Estilo 2,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,38,Cinza,401.63,171
+409,Acessórios Lenço Estilo 14,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,46,Roxo,236.75,145
+410,Calças Jeans Estilo 16,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,G,Rosa Bebê,369.64,487
+411,Blusas Tricô Estilo 50,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Tricô,40,Marrom,480.97,366
+412,Blusas Cropped Estilo 18,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Cropped,46,Laranja,206.16,56
+413,Camisetas Manga Longa Estilo 18,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Manga Longa,44,Rosa Bebê,235.82,150
+414,Calças Legging Estilo 9,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,M,Rosa Bebê,489.17,380
+415,Moletom Escolar Estilo 10,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Escolar,46,Verde Militar,299.72,292
+416,Calças Legging Estilo 16,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,38,Laranja,286.8,343
+417,Saias Plissada Estilo 45,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,P,Azul Marinho,392.79,39
+418,Shorts Praia Estilo 50,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,42,Marrom,445.66,99
+419,Shorts Social Estilo 15,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,42,Rosa Bebê,186.42,351
+420,Saias Plissada Estilo 39,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,P,Azul Marinho,85.92,215
+421,Moletom Unissex Estilo 32,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Unissex,P,Bordô,278.25,472
+422,Acessórios Meia Estilo 2,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,46,Cinza,497.86,496
+423,Acessórios Meia Estilo 35,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,42,Verde Militar,300.06,329
+424,Calças Jeans Estilo 37,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,M,Roxo,396.78,277
+425,Vestidos Midi Estilo 37,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,42,Laranja,335.48,102
+426,Calças Legging Estilo 18,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,42,Amarelo,447.9,383
+427,Vestidos Curto Estilo 5,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,G,Bege,300.26,237
+428,Acessórios Chapéu Estilo 2,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,40,Laranja,167.99,324
+429,Moletom Street Estilo 1,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,GG,Rosa Bebê,230.66,137
+430,Jaquetas Inverno Estilo 35,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,42,Bege,342.64,399
+431,Shorts Jeans Estilo 13,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,G,Vermelho,174.89,56
+432,Camisetas T-shirts Estilo 50,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,G,Roxo,193.7,40
+433,Shorts Praia Estilo 15,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,GG,Vermelho,172.28,222
+434,Saias Curta Estilo 14,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,38,Preto,94.44,465
+435,Blusas Tricô Estilo 25,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Tricô,P,Amarelo,437.64,442
+436,Jaquetas Corta-Vento Estilo 4,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,42,Amarelo,217.51,110
+437,Moletom Street Estilo 6,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,G,Roxo,459.14,375
+438,Acessórios Cinto Estilo 11,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,GG,Branco,472.03,384
+439,Shorts Praia Estilo 27,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,GG,Vermelho,492.92,414
+440,Acessórios Meia Estilo 31,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,XG,Roxo,82.54,238
+441,Camisetas T-shirts Estilo 25,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,40,Cinza,481.84,56
+442,Shorts Praia Estilo 20,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,M,Cinza,474.49,338
+443,Saias Curta Estilo 45,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,M,Bege,332.38,204
+444,Blusas Tricô Estilo 18,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Tricô,38,Preto,96.05,132
+445,Vestidos Midi Estilo 9,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,44,Azul Marinho,95.8,245
+446,Camisetas T-shirts Estilo 39,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,GG,Bordô,377.63,155
+447,Shorts Social Estilo 11,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Social,40,Azul Marinho,111.98,270
+448,Vestidos Longo Estilo 24,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,M,Turquesa,106.22,259
+449,Jaquetas Inverno Estilo 26,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,38,Bordô,154.54,169
+450,Camisetas T-shirts Estilo 22,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,P,Amarelo,45.98,451
+451,Vestidos Tubinho Estilo 3,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,44,Cinza,388.28,374
+452,Acessórios Lenço Estilo 11,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,M,Preto,193.77,119
+453,Calças Legging Estilo 5,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,M,Amarelo,248.18,217
+454,Acessórios Chapéu Estilo 9,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,46,Turquesa,329.22,164
+455,Blusas Off Shoulder Estilo 17,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,G,Rosa Bebê,338.4,192
+456,Calças Legging Estilo 32,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Legging,46,Vermelho,89.04,268
+457,Vestidos Longo Estilo 15,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,M,Marrom,74.45,211
+458,Saias Midi Estilo 16,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,GG,Verde Militar,116.67,342
+459,Saias Plissada Estilo 46,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,42,Bege,307.57,269
+460,Saias Curta Estilo 21,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Curta,40,Rosa Bebê,340.66,301
+461,Camisetas Cropped Estilo 41,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,P,Turquesa,122.91,98
+462,Camisetas Regatas Estilo 41,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Regatas,P,Bordô,403.44,87
+463,Moletom Feminino Estilo 1,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Feminino,46,Amarelo,257.31,181
+464,Jaquetas Corta-Vento Estilo 29,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,GG,Amarelo,321.92,284
+465,Blusas Tricô Estilo 48,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Tricô,XG,Bege,391.1,478
+466,Shorts Praia Estilo 12,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,XG,Rosa Bebê,409.18,254
+467,Acessórios Chapéu Estilo 43,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Chapéu,M,Bege,432.32,395
+468,Acessórios Meia Estilo 5,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,38,Cinza,331.78,498
+469,Acessórios Lenço Estilo 7,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,GG,Amarelo,420.04,66
+470,Acessórios Meia Estilo 9,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Meia,38,Verde Militar,242.61,288
+471,Calças Social Estilo 26,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Social,44,Vermelho,96.5,353
+472,Jaquetas Casual Estilo 13,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Casual,38,Roxo,312.34,82
+473,Acessórios Cinto Estilo 35,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,38,Roxo,138.2,489
+474,Acessórios Lenço Estilo 24,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Lenço,G,Branco,349.69,330
+475,Jaquetas Couro Estilo 35,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,46,Cinza,433.3,147
+476,Camisetas Cropped Estilo 19,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,40,Roxo,486.74,462
+477,Blusas Off Shoulder Estilo 21,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,G,Marrom,470.83,5
+478,Calças Moletom Estilo 46,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Moletom,44,Bege,176.35,477
+479,Calças Jeans Estilo 49,"Calças em tecido de alta qualidade, design moderno e confortável.",Calças,Jeans,40,Azul Marinho,97.48,426
+480,Vestidos Longo Estilo 26,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Longo,G,Bege,226.83,307
+481,Jaquetas Couro Estilo 23,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Couro,M,Vermelho,482.68,146
+482,Vestidos Tubinho Estilo 8,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Tubinho,46,Bege,101.27,232
+483,Vestidos Curto Estilo 49,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Curto,38,Preto,329.18,271
+484,Saias Midi Estilo 50,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,46,Amarelo,139.03,229
+485,Saias Midi Estilo 35,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Midi,46,Amarelo,102.13,455
+486,Shorts Praia Estilo 3,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Praia,40,Bordô,448.72,62
+487,Blusas Off Shoulder Estilo 38,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,G,Marrom,354.88,411
+488,Blusas Gola Alta Estilo 15,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Gola Alta,44,Branco,71.53,379
+489,Shorts Jeans Estilo 43,"Shorts em tecido de alta qualidade, design moderno e confortável.",Shorts,Jeans,42,Bordô,359.65,226
+490,Moletom Street Estilo 41,"Moletom em tecido de alta qualidade, design moderno e confortável.",Moletom,Street,M,Bordô,391.77,436
+491,Saias Plissada Estilo 41,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,44,Rosa Bebê,227.13,433
+492,Saias Plissada Estilo 6,"Saias em tecido de alta qualidade, design moderno e confortável.",Saias,Plissada,P,Branco,365.05,253
+493,Jaquetas Corta-Vento Estilo 15,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Corta-Vento,46,Cinza,342.75,58
+494,Blusas Off Shoulder Estilo 39,"Blusas em tecido de alta qualidade, design moderno e confortável.",Blusas,Off Shoulder,44,Bordô,464.76,200
+495,Camisetas T-shirts Estilo 38,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,T-shirts,M,Laranja,74.51,499
+496,Jaquetas Inverno Estilo 38,"Jaquetas em tecido de alta qualidade, design moderno e confortável.",Jaquetas,Inverno,46,Cinza,413.08,372
+497,Camisetas Manga Longa Estilo 42,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Manga Longa,42,Bordô,246.45,447
+498,Acessórios Cinto Estilo 26,"Acessórios em tecido de alta qualidade, design moderno e confortável.",Acessórios,Cinto,40,Bege,456.7,115
+499,Vestidos Midi Estilo 41,"Vestidos em tecido de alta qualidade, design moderno e confortável.",Vestidos,Midi,38,Branco,167.27,216
+500,Camisetas Cropped Estilo 17,"Camisetas em tecido de alta qualidade, design moderno e confortável.",Camisetas,Cropped,38,Bordô,350.92,185

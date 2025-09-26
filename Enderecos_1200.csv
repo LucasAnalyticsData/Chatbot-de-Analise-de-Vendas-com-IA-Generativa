@@ -1,0 +1,1199 @@
+id_endereco,id_cliente,rua,numero,complemento,bairro,cidade,estado,cep,tipo_endereco
+1,1,Avenida Epitácio Pessoa,2347,Apto 41,Vila Mariana,Fortaleza,CE,60000-986,Residencial
+2,1,Avenida Paulista,1546,Apto 5,Boa Viagem,Brasília,DF,70000-259,Residencial
+3,2,Avenida das Flores,1309,,Centro,Goiânia,GO,74000-231,Comercial
+4,2,Travessa Brasil,993,Apto 73,Asa Sul,Manaus,AM,69000-501,Comercial
+5,3,Avenida XV de Novembro,1191,,Vila Mariana,Recife,PE,50000-116,Comercial
+6,4,Travessa Sete de Setembro,1548,Apto 46,Ipanema,Fortaleza,CE,60000-239,Residencial
+7,5,Avenida Brasil,1636,Apto 14,Asa Sul,Fortaleza,CE,60000-876,Comercial
+8,6,Rua Verde,2989,Apto 42,Savassi,Manaus,AM,69000-150,Comercial
+9,7,Estrada do Sol,2155,,Copacabana,Manaus,AM,69000-250,Comercial
+10,8,Praça XV de Novembro,303,,Jardins,Brasília,DF,70000-989,Comercial
+11,9,Rua do Sol,1104,,Barra da Tijuca,Manaus,AM,69000-929,Residencial
+12,10,Rua da Liberdade,162,Apto 5,Boa Viagem,Rio de Janeiro,RJ,20000-482,Comercial
+13,10,Praça do Sol,1892,,Ipanema,Belo Horizonte,MG,30000-217,Comercial
+14,11,Avenida Sete de Setembro,2538,,Copacabana,Goiânia,GO,74000-362,Comercial
+15,12,Travessa das Flores,1846,Apto 42,Savassi,Recife,PE,50000-640,Comercial
+16,13,Travessa Sete de Setembro,2554,Apto 69,Asa Sul,Recife,PE,50000-602,Residencial
+17,14,Travessa Paulista,1308,,Barra da Tijuca,São Paulo,SP,01000-609,Residencial
+18,15,Avenida Brasil,662,Apto 25,Vila Mariana,Campinas,SP,13000-318,Residencial
+19,16,Rua Brasil,1237,Apto 31,Copacabana,Porto Alegre,RS,90000-234,Residencial
+20,17,Travessa Paulista,2612,,Savassi,Rio de Janeiro,RJ,20000-599,Residencial
+21,18,Avenida da Liberdade,1195,Apto 62,Jardins,Campinas,SP,13000-622,Comercial
+22,19,Rua Verde,105,Apto 43,Jardins,Goiânia,GO,74000-375,Comercial
+23,20,Avenida Atlântica,398,Apto 25,Pinheiros,Campinas,SP,13000-136,Residencial
+24,21,Estrada do Sol,608,,Centro,Goiânia,GO,74000-561,Comercial
+25,22,Travessa XV de Novembro,2006,,Pinheiros,Goiânia,GO,74000-279,Residencial
+26,23,Travessa da Liberdade,544,Apto 4,Jardins,Campinas,SP,13000-485,Comercial
+27,24,Avenida das Flores,2751,Apto 57,Asa Sul,Salvador,BA,40000-261,Residencial
+28,25,Rua Sete de Setembro,1208,,Ipanema,Fortaleza,CE,60000-174,Comercial
+29,26,Alameda da Liberdade,922,,Copacabana,Belo Horizonte,MG,30000-723,Comercial
+30,27,Estrada da Liberdade,275,Apto 81,Centro,Manaus,AM,69000-169,Residencial
+31,28,Praça do Sol,2858,Apto 74,Barra da Tijuca,Belo Horizonte,MG,30000-957,Residencial
+32,29,Praça Verde,1377,Apto 67,Ipanema,Goiânia,GO,74000-674,Residencial
+33,30,Praça Brasil,634,Apto 58,Vila Mariana,Campinas,SP,13000-853,Comercial
+34,31,Travessa Brasil,1416,,Ipanema,Recife,PE,50000-392,Comercial
+35,32,Travessa Verde,2163,Apto 69,Jardins,Porto Alegre,RS,90000-248,Comercial
+36,33,Alameda das Flores,389,,Asa Sul,Goiânia,GO,74000-474,Residencial
+37,34,Estrada Epitácio Pessoa,1298,Apto 25,Ipanema,Belo Horizonte,MG,30000-499,Comercial
+38,35,Rua Epitácio Pessoa,2570,,Jardins,Porto Alegre,RS,90000-210,Comercial
+39,36,Estrada Sete de Setembro,587,Apto 8,Savassi,Fortaleza,CE,60000-542,Comercial
+40,36,Travessa Epitácio Pessoa,865,Apto 23,Asa Sul,São Paulo,SP,01000-343,Comercial
+41,37,Praça Sete de Setembro,407,Apto 76,Savassi,Recife,PE,50000-289,Residencial
+42,38,Praça Atlântica,800,Apto 84,Centro,Manaus,AM,69000-457,Residencial
+43,39,Estrada Verde,341,,Copacabana,Belo Horizonte,MG,30000-259,Residencial
+44,39,Estrada XV de Novembro,405,Apto 33,Copacabana,Fortaleza,CE,60000-814,Comercial
+45,40,Estrada Epitácio Pessoa,743,Apto 16,Barra da Tijuca,Fortaleza,CE,60000-619,Comercial
+46,40,Rua Atlântica,702,,Ipanema,Recife,PE,50000-126,Residencial
+47,41,Alameda do Sol,481,,Barra da Tijuca,Rio de Janeiro,RJ,20000-374,Residencial
+48,41,Travessa Atlântica,1647,Apto 100,Vila Mariana,Goiânia,GO,74000-373,Comercial
+49,42,Alameda do Sol,777,Apto 93,Barra da Tijuca,Fortaleza,CE,60000-238,Residencial
+50,43,Travessa Paulista,2083,Apto 97,Pinheiros,Brasília,DF,70000-424,Comercial
+51,44,Praça Brasil,1997,,Ipanema,Goiânia,GO,74000-652,Residencial
+52,44,Alameda Paulista,1846,,Savassi,Belo Horizonte,MG,30000-773,Comercial
+53,45,Avenida Verde,490,Apto 6,Copacabana,Brasília,DF,70000-183,Residencial
+54,46,Rua do Sol,138,Apto 38,Vila Mariana,Brasília,DF,70000-771,Residencial
+55,46,Avenida do Sol,1226,Apto 48,Copacabana,Rio de Janeiro,RJ,20000-842,Comercial
+56,47,Avenida das Flores,2047,,Asa Sul,Recife,PE,50000-886,Residencial
+57,48,Praça Atlântica,511,Apto 75,Ipanema,Brasília,DF,70000-166,Residencial
+58,49,Praça Brasil,2384,Apto 64,Pinheiros,Recife,PE,50000-989,Comercial
+59,50,Rua XV de Novembro,1576,,Centro,Curitiba,PR,80000-372,Comercial
+60,51,Estrada Epitácio Pessoa,1089,,Savassi,Fortaleza,CE,60000-159,Comercial
+61,52,Travessa Sete de Setembro,910,Apto 72,Savassi,Fortaleza,CE,60000-209,Comercial
+62,53,Avenida do Sol,1703,Apto 57,Boa Viagem,Rio de Janeiro,RJ,20000-451,Comercial
+63,53,Avenida Sete de Setembro,1106,Apto 60,Barra da Tijuca,Porto Alegre,RS,90000-286,Comercial
+64,54,Praça da Liberdade,448,Apto 67,Ipanema,São Paulo,SP,01000-967,Residencial
+65,54,Avenida Epitácio Pessoa,1335,,Barra da Tijuca,Goiânia,GO,74000-449,Comercial
+66,55,Praça Brasil,6,Apto 84,Pinheiros,Brasília,DF,70000-957,Comercial
+67,56,Praça Atlântica,1240,Apto 39,Copacabana,Porto Alegre,RS,90000-468,Residencial
+68,57,Rua das Flores,1360,Apto 11,Boa Viagem,Curitiba,PR,80000-286,Comercial
+69,58,Travessa da Liberdade,1651,Apto 24,Jardins,Rio de Janeiro,RJ,20000-742,Residencial
+70,59,Estrada da Liberdade,1914,Apto 53,Jardins,Fortaleza,CE,60000-747,Comercial
+71,60,Rua Paulista,281,,Pinheiros,Belo Horizonte,MG,30000-583,Comercial
+72,61,Avenida Paulista,136,Apto 13,Jardins,Goiânia,GO,74000-792,Residencial
+73,62,Praça da Liberdade,2498,Apto 20,Asa Sul,Campinas,SP,13000-783,Residencial
+74,63,Alameda das Flores,692,,Boa Viagem,Porto Alegre,RS,90000-750,Comercial
+75,64,Avenida Sete de Setembro,2116,,Ipanema,Manaus,AM,69000-543,Residencial
+76,65,Estrada da Liberdade,1262,Apto 58,Savassi,Manaus,AM,69000-172,Residencial
+77,66,Travessa Sete de Setembro,1325,Apto 25,Asa Sul,Curitiba,PR,80000-870,Residencial
+78,67,Praça Sete de Setembro,477,,Centro,Salvador,BA,40000-289,Comercial
+79,68,Travessa da Liberdade,1065,Apto 67,Asa Sul,Manaus,AM,69000-314,Residencial
+80,69,Praça Brasil,1835,,Barra da Tijuca,Campinas,SP,13000-468,Comercial
+81,70,Alameda Verde,1108,Apto 95,Savassi,Campinas,SP,13000-563,Comercial
+82,70,Avenida do Sol,2518,,Copacabana,Brasília,DF,70000-124,Comercial
+83,71,Praça do Sol,302,Apto 4,Savassi,Curitiba,PR,80000-362,Residencial
+84,72,Alameda da Liberdade,411,,Boa Viagem,Curitiba,PR,80000-212,Comercial
+85,72,Praça Sete de Setembro,610,Apto 47,Copacabana,Rio de Janeiro,RJ,20000-499,Comercial
+86,73,Estrada das Flores,2838,,Jardins,Rio de Janeiro,RJ,20000-852,Residencial
+87,74,Estrada Verde,1336,Apto 72,Ipanema,Belo Horizonte,MG,30000-185,Residencial
+88,75,Estrada Paulista,461,,Ipanema,Manaus,AM,69000-418,Residencial
+89,76,Avenida Atlântica,2303,Apto 96,Vila Mariana,Manaus,AM,69000-786,Residencial
+90,77,Praça XV de Novembro,2430,,Jardins,Recife,PE,50000-578,Residencial
+91,78,Alameda das Flores,2829,,Boa Viagem,Porto Alegre,RS,90000-578,Comercial
+92,78,Estrada Brasil,2456,,Pinheiros,Porto Alegre,RS,90000-717,Residencial
+93,79,Estrada Sete de Setembro,258,,Boa Viagem,Curitiba,PR,80000-356,Comercial
+94,80,Estrada Verde,228,Apto 92,Ipanema,Belo Horizonte,MG,30000-176,Comercial
+95,81,Praça do Sol,510,Apto 41,Barra da Tijuca,Salvador,BA,40000-111,Residencial
+96,82,Praça das Flores,2078,,Boa Viagem,Campinas,SP,13000-127,Comercial
+97,83,Travessa XV de Novembro,197,Apto 63,Asa Sul,Recife,PE,50000-822,Comercial
+98,84,Praça da Liberdade,1436,,Savassi,Salvador,BA,40000-956,Comercial
+99,85,Travessa Sete de Setembro,2362,Apto 33,Barra da Tijuca,Brasília,DF,70000-490,Residencial
+100,86,Praça da Liberdade,248,Apto 23,Centro,Goiânia,GO,74000-727,Comercial
+101,87,Praça Sete de Setembro,825,Apto 94,Vila Mariana,Goiânia,GO,74000-482,Comercial
+102,88,Alameda XV de Novembro,546,,Vila Mariana,Salvador,BA,40000-230,Comercial
+103,89,Travessa Brasil,627,Apto 31,Savassi,Porto Alegre,RS,90000-752,Residencial
+104,90,Avenida do Sol,1396,Apto 79,Pinheiros,Brasília,DF,70000-483,Residencial
+105,91,Alameda Brasil,1568,,Jardins,Porto Alegre,RS,90000-736,Residencial
+106,92,Avenida Paulista,1984,Apto 12,Pinheiros,Porto Alegre,RS,90000-737,Residencial
+107,93,Rua do Sol,622,,Copacabana,Fortaleza,CE,60000-220,Residencial
+108,94,Praça Epitácio Pessoa,2123,Apto 45,Boa Viagem,Belo Horizonte,MG,30000-415,Comercial
+109,94,Estrada das Flores,2609,Apto 30,Asa Sul,Brasília,DF,70000-210,Comercial
+110,95,Alameda Sete de Setembro,1438,Apto 5,Pinheiros,São Paulo,SP,01000-725,Residencial
+111,96,Alameda XV de Novembro,218,Apto 63,Barra da Tijuca,Manaus,AM,69000-862,Residencial
+112,97,Travessa das Flores,1644,Apto 63,Vila Mariana,Belo Horizonte,MG,30000-309,Residencial
+113,98,Rua do Sol,1440,Apto 31,Savassi,Brasília,DF,70000-893,Residencial
+114,99,Alameda XV de Novembro,2894,,Jardins,São Paulo,SP,01000-349,Comercial
+115,100,Avenida Epitácio Pessoa,13,Apto 29,Copacabana,Brasília,DF,70000-184,Residencial
+116,100,Alameda Sete de Setembro,2853,Apto 9,Copacabana,Salvador,BA,40000-749,Comercial
+117,101,Rua das Flores,2532,Apto 39,Boa Viagem,Recife,PE,50000-661,Comercial
+118,102,Rua Brasil,2392,Apto 60,Boa Viagem,Curitiba,PR,80000-151,Comercial
+119,102,Estrada Atlântica,1083,Apto 11,Boa Viagem,São Paulo,SP,01000-147,Comercial
+120,103,Avenida Verde,1531,Apto 58,Asa Sul,Rio de Janeiro,RJ,20000-619,Residencial
+121,104,Rua XV de Novembro,1992,Apto 18,Asa Sul,Manaus,AM,69000-525,Residencial
+122,104,Estrada do Sol,1366,Apto 12,Savassi,Salvador,BA,40000-936,Residencial
+123,105,Avenida Sete de Setembro,638,,Ipanema,Curitiba,PR,80000-150,Residencial
+124,105,Avenida Paulista,1233,,Vila Mariana,Salvador,BA,40000-505,Residencial
+125,106,Alameda Paulista,2023,Apto 45,Ipanema,Campinas,SP,13000-173,Comercial
+126,107,Avenida Sete de Setembro,2911,,Asa Sul,Recife,PE,50000-967,Residencial
+127,108,Alameda do Sol,2074,,Savassi,Rio de Janeiro,RJ,20000-568,Residencial
+128,109,Praça Verde,2661,,Asa Sul,Porto Alegre,RS,90000-545,Comercial
+129,110,Estrada Verde,2402,,Vila Mariana,Belo Horizonte,MG,30000-130,Comercial
+130,111,Travessa Paulista,497,Apto 70,Jardins,Rio de Janeiro,RJ,20000-950,Residencial
+131,111,Praça da Liberdade,2591,Apto 69,Asa Sul,Campinas,SP,13000-332,Comercial
+132,112,Alameda XV de Novembro,815,,Savassi,Manaus,AM,69000-238,Residencial
+133,113,Estrada Paulista,1142,,Vila Mariana,Campinas,SP,13000-923,Comercial
+134,114,Rua do Sol,1630,Apto 72,Ipanema,Campinas,SP,13000-207,Comercial
+135,114,Avenida das Flores,290,Apto 6,Savassi,São Paulo,SP,01000-333,Residencial
+136,115,Estrada XV de Novembro,531,Apto 68,Barra da Tijuca,São Paulo,SP,01000-547,Comercial
+137,116,Avenida da Liberdade,2409,Apto 39,Barra da Tijuca,Belo Horizonte,MG,30000-171,Comercial
+138,117,Avenida das Flores,1540,Apto 33,Savassi,Rio de Janeiro,RJ,20000-640,Residencial
+139,118,Rua XV de Novembro,1719,,Jardins,Fortaleza,CE,60000-941,Residencial
+140,119,Praça Sete de Setembro,1581,Apto 12,Jardins,Goiânia,GO,74000-334,Comercial
+141,120,Travessa Atlântica,754,,Jardins,Salvador,BA,40000-698,Residencial
+142,121,Estrada da Liberdade,2647,Apto 21,Boa Viagem,Fortaleza,CE,60000-821,Residencial
+143,122,Avenida Epitácio Pessoa,2913,Apto 22,Pinheiros,Belo Horizonte,MG,30000-847,Comercial
+144,123,Rua Verde,957,Apto 54,Ipanema,Belo Horizonte,MG,30000-554,Comercial
+145,124,Estrada Atlântica,23,Apto 90,Copacabana,Goiânia,GO,74000-358,Comercial
+146,125,Praça Epitácio Pessoa,2151,,Centro,São Paulo,SP,01000-804,Residencial
+147,126,Estrada Epitácio Pessoa,38,Apto 35,Pinheiros,Goiânia,GO,74000-564,Comercial
+148,126,Travessa Brasil,2016,Apto 96,Vila Mariana,Campinas,SP,13000-420,Comercial
+149,127,Alameda Brasil,540,Apto 50,Ipanema,Campinas,SP,13000-440,Residencial
+150,128,Rua Epitácio Pessoa,2403,Apto 4,Jardins,Campinas,SP,13000-940,Comercial
+151,129,Avenida da Liberdade,748,Apto 2,Boa Viagem,São Paulo,SP,01000-698,Residencial
+152,130,Travessa Atlântica,1582,Apto 39,Ipanema,Curitiba,PR,80000-534,Residencial
+153,130,Rua Verde,2663,Apto 55,Asa Sul,Fortaleza,CE,60000-662,Residencial
+154,131,Alameda Epitácio Pessoa,78,,Pinheiros,Salvador,BA,40000-418,Comercial
+155,131,Travessa Brasil,1358,Apto 63,Asa Sul,Belo Horizonte,MG,30000-811,Comercial
+156,132,Rua Paulista,2154,Apto 36,Asa Sul,Goiânia,GO,74000-229,Residencial
+157,133,Travessa Sete de Setembro,1344,,Centro,Recife,PE,50000-417,Comercial
+158,134,Alameda da Liberdade,581,,Centro,Porto Alegre,RS,90000-828,Residencial
+159,135,Travessa das Flores,215,Apto 1,Ipanema,Curitiba,PR,80000-643,Comercial
+160,136,Praça Verde,207,Apto 93,Pinheiros,Salvador,BA,40000-723,Comercial
+161,137,Avenida Paulista,472,,Asa Sul,Curitiba,PR,80000-950,Comercial
+162,138,Estrada da Liberdade,1772,Apto 75,Vila Mariana,Manaus,AM,69000-339,Residencial
+163,139,Alameda XV de Novembro,769,,Vila Mariana,Belo Horizonte,MG,30000-231,Comercial
+164,140,Estrada Brasil,1294,Apto 87,Pinheiros,São Paulo,SP,01000-468,Residencial
+165,141,Alameda Epitácio Pessoa,2241,Apto 59,Ipanema,Brasília,DF,70000-222,Comercial
+166,142,Rua Sete de Setembro,1257,Apto 47,Jardins,Belo Horizonte,MG,30000-367,Residencial
+167,143,Avenida do Sol,2780,Apto 70,Savassi,Brasília,DF,70000-939,Comercial
+168,144,Avenida das Flores,2800,Apto 67,Vila Mariana,Goiânia,GO,74000-879,Residencial
+169,144,Praça da Liberdade,2368,,Jardins,Recife,PE,50000-639,Residencial
+170,145,Avenida Paulista,1529,,Asa Sul,Campinas,SP,13000-206,Residencial
+171,146,Praça Atlântica,651,Apto 19,Copacabana,Porto Alegre,RS,90000-819,Comercial
+172,147,Rua do Sol,1471,Apto 51,Asa Sul,Campinas,SP,13000-826,Residencial
+173,147,Avenida das Flores,2515,Apto 81,Jardins,Belo Horizonte,MG,30000-379,Residencial
+174,148,Alameda Atlântica,2680,,Centro,Campinas,SP,13000-528,Comercial
+175,148,Estrada da Liberdade,1109,,Pinheiros,Campinas,SP,13000-820,Residencial
+176,149,Alameda Sete de Setembro,1965,Apto 18,Boa Viagem,Goiânia,GO,74000-862,Comercial
+177,150,Alameda Epitácio Pessoa,1967,,Jardins,Salvador,BA,40000-503,Comercial
+178,151,Estrada Verde,2975,,Asa Sul,Belo Horizonte,MG,30000-225,Residencial
+179,152,Rua Brasil,2139,Apto 21,Vila Mariana,Salvador,BA,40000-111,Comercial
+180,153,Rua XV de Novembro,2418,Apto 95,Vila Mariana,Salvador,BA,40000-347,Residencial
+181,154,Travessa do Sol,2670,Apto 87,Ipanema,Rio de Janeiro,RJ,20000-482,Residencial
+182,155,Rua da Liberdade,1644,,Ipanema,Manaus,AM,69000-673,Residencial
+183,156,Rua Sete de Setembro,346,Apto 98,Boa Viagem,Brasília,DF,70000-518,Comercial
+184,156,Alameda Verde,112,Apto 39,Centro,Goiânia,GO,74000-914,Residencial
+185,157,Avenida Paulista,1470,Apto 42,Ipanema,Manaus,AM,69000-718,Residencial
+186,158,Alameda do Sol,742,Apto 91,Ipanema,Curitiba,PR,80000-116,Residencial
+187,159,Estrada Epitácio Pessoa,574,Apto 23,Copacabana,Fortaleza,CE,60000-681,Comercial
+188,159,Avenida Verde,1699,Apto 7,Vila Mariana,Rio de Janeiro,RJ,20000-143,Comercial
+189,160,Rua Brasil,2881,Apto 1,Boa Viagem,Belo Horizonte,MG,30000-266,Residencial
+190,161,Avenida Sete de Setembro,2907,Apto 26,Vila Mariana,Campinas,SP,13000-365,Residencial
+191,162,Estrada Sete de Setembro,1635,Apto 18,Pinheiros,Recife,PE,50000-821,Comercial
+192,163,Avenida Brasil,1620,Apto 66,Copacabana,Salvador,BA,40000-421,Residencial
+193,164,Avenida Paulista,930,,Vila Mariana,Belo Horizonte,MG,30000-385,Comercial
+194,165,Avenida Verde,1752,,Centro,Manaus,AM,69000-702,Comercial
+195,166,Praça Verde,780,Apto 11,Centro,Fortaleza,CE,60000-197,Residencial
+196,167,Estrada do Sol,286,,Centro,Brasília,DF,70000-947,Residencial
+197,168,Avenida Sete de Setembro,2356,,Barra da Tijuca,Fortaleza,CE,60000-848,Comercial
+198,168,Travessa Atlântica,2562,,Centro,Campinas,SP,13000-731,Residencial
+199,169,Estrada Sete de Setembro,974,Apto 84,Savassi,Goiânia,GO,74000-718,Residencial
+200,169,Rua Brasil,1308,,Copacabana,Campinas,SP,13000-845,Comercial
+201,170,Rua XV de Novembro,1078,,Pinheiros,Rio de Janeiro,RJ,20000-740,Residencial
+202,171,Alameda Verde,868,,Copacabana,Salvador,BA,40000-512,Comercial
+203,172,Estrada Epitácio Pessoa,2479,,Barra da Tijuca,Manaus,AM,69000-543,Comercial
+204,173,Alameda das Flores,424,Apto 54,Pinheiros,Manaus,AM,69000-839,Comercial
+205,174,Rua Sete de Setembro,1276,Apto 36,Copacabana,Campinas,SP,13000-394,Residencial
+206,175,Avenida da Liberdade,731,,Jardins,Brasília,DF,70000-296,Comercial
+207,176,Rua Paulista,1538,Apto 94,Asa Sul,Rio de Janeiro,RJ,20000-595,Comercial
+208,176,Praça Paulista,2481,Apto 24,Jardins,Porto Alegre,RS,90000-544,Residencial
+209,177,Alameda XV de Novembro,1754,Apto 17,Asa Sul,Curitiba,PR,80000-334,Residencial
+210,178,Rua Brasil,2916,Apto 8,Savassi,Goiânia,GO,74000-110,Comercial
+211,178,Travessa Brasil,1967,Apto 86,Asa Sul,Recife,PE,50000-216,Residencial
+212,179,Praça do Sol,2554,Apto 49,Savassi,São Paulo,SP,01000-368,Comercial
+213,180,Travessa Paulista,178,,Pinheiros,Curitiba,PR,80000-838,Residencial
+214,181,Avenida Sete de Setembro,2863,Apto 35,Boa Viagem,São Paulo,SP,01000-819,Comercial
+215,182,Avenida XV de Novembro,2476,Apto 42,Boa Viagem,Goiânia,GO,74000-431,Residencial
+216,183,Rua da Liberdade,1930,,Centro,Goiânia,GO,74000-763,Residencial
+217,184,Alameda da Liberdade,665,,Jardins,Curitiba,PR,80000-985,Residencial
+218,185,Alameda Atlântica,711,,Savassi,São Paulo,SP,01000-823,Comercial
+219,185,Estrada das Flores,2657,Apto 74,Boa Viagem,Brasília,DF,70000-348,Comercial
+220,186,Praça Paulista,994,,Copacabana,Fortaleza,CE,60000-762,Residencial
+221,187,Travessa Epitácio Pessoa,106,Apto 15,Boa Viagem,Porto Alegre,RS,90000-239,Comercial
+222,188,Rua Atlântica,2402,,Jardins,Manaus,AM,69000-205,Comercial
+223,188,Travessa da Liberdade,155,Apto 28,Barra da Tijuca,Fortaleza,CE,60000-908,Comercial
+224,189,Avenida Verde,2384,Apto 52,Boa Viagem,Rio de Janeiro,RJ,20000-629,Residencial
+225,190,Alameda Atlântica,35,,Pinheiros,Manaus,AM,69000-129,Comercial
+226,191,Praça Atlântica,1295,Apto 61,Boa Viagem,Campinas,SP,13000-211,Comercial
+227,192,Alameda Atlântica,1917,Apto 31,Boa Viagem,Fortaleza,CE,60000-709,Comercial
+228,193,Estrada das Flores,2335,,Ipanema,Goiânia,GO,74000-769,Comercial
+229,194,Avenida Epitácio Pessoa,2783,,Boa Viagem,Porto Alegre,RS,90000-971,Residencial
+230,195,Praça Verde,2156,,Savassi,Porto Alegre,RS,90000-323,Residencial
+231,196,Avenida Sete de Setembro,1089,Apto 12,Copacabana,Recife,PE,50000-656,Residencial
+232,197,Praça Epitácio Pessoa,1267,Apto 83,Pinheiros,Recife,PE,50000-910,Comercial
+233,197,Alameda Verde,700,Apto 65,Ipanema,Campinas,SP,13000-423,Comercial
+234,198,Rua Brasil,423,Apto 27,Pinheiros,São Paulo,SP,01000-504,Comercial
+235,198,Estrada do Sol,50,,Ipanema,Fortaleza,CE,60000-415,Residencial
+236,199,Rua Sete de Setembro,1118,,Savassi,Belo Horizonte,MG,30000-325,Comercial
+237,200,Rua Epitácio Pessoa,1291,Apto 40,Jardins,Porto Alegre,RS,90000-753,Comercial
+238,201,Avenida Sete de Setembro,2109,Apto 92,Centro,Rio de Janeiro,RJ,20000-751,Residencial
+239,202,Estrada Brasil,2364,Apto 5,Savassi,Campinas,SP,13000-415,Residencial
+240,202,Estrada da Liberdade,417,Apto 41,Barra da Tijuca,Campinas,SP,13000-836,Residencial
+241,203,Rua XV de Novembro,2869,Apto 43,Ipanema,Rio de Janeiro,RJ,20000-692,Residencial
+242,204,Praça Atlântica,1195,,Ipanema,Fortaleza,CE,60000-526,Residencial
+243,205,Travessa do Sol,1711,Apto 89,Ipanema,Brasília,DF,70000-977,Residencial
+244,206,Avenida Paulista,197,Apto 16,Jardins,Curitiba,PR,80000-122,Comercial
+245,207,Praça da Liberdade,1236,,Pinheiros,Recife,PE,50000-569,Residencial
+246,207,Praça Brasil,2393,Apto 17,Asa Sul,Recife,PE,50000-511,Comercial
+247,208,Travessa Sete de Setembro,1480,,Vila Mariana,Manaus,AM,69000-976,Comercial
+248,209,Rua Verde,776,,Pinheiros,Recife,PE,50000-194,Residencial
+249,210,Travessa Atlântica,1374,Apto 78,Boa Viagem,Brasília,DF,70000-507,Residencial
+250,210,Alameda Brasil,2197,Apto 75,Boa Viagem,Goiânia,GO,74000-859,Residencial
+251,211,Travessa Verde,1023,,Vila Mariana,Goiânia,GO,74000-234,Comercial
+252,212,Avenida Brasil,1340,Apto 49,Copacabana,São Paulo,SP,01000-583,Residencial
+253,213,Alameda Verde,1032,Apto 60,Barra da Tijuca,Fortaleza,CE,60000-406,Residencial
+254,213,Praça Verde,1066,,Boa Viagem,Manaus,AM,69000-317,Residencial
+255,214,Avenida Atlântica,1672,Apto 53,Copacabana,Goiânia,GO,74000-937,Residencial
+256,215,Praça Verde,1635,Apto 20,Centro,Curitiba,PR,80000-877,Residencial
+257,216,Travessa das Flores,2916,Apto 91,Centro,Porto Alegre,RS,90000-587,Comercial
+258,217,Estrada XV de Novembro,1,Apto 63,Centro,Salvador,BA,40000-971,Residencial
+259,218,Estrada Brasil,544,Apto 94,Copacabana,Brasília,DF,70000-580,Comercial
+260,219,Praça XV de Novembro,2125,Apto 33,Copacabana,Manaus,AM,69000-523,Comercial
+261,220,Alameda Sete de Setembro,1163,Apto 64,Vila Mariana,Salvador,BA,40000-847,Residencial
+262,221,Praça Epitácio Pessoa,2822,Apto 73,Asa Sul,Curitiba,PR,80000-221,Comercial
+263,221,Rua XV de Novembro,59,Apto 2,Savassi,Salvador,BA,40000-308,Comercial
+264,222,Travessa Brasil,8,Apto 86,Vila Mariana,São Paulo,SP,01000-909,Residencial
+265,223,Estrada XV de Novembro,101,Apto 92,Savassi,Fortaleza,CE,60000-327,Comercial
+266,224,Estrada Atlântica,1151,Apto 20,Vila Mariana,Salvador,BA,40000-875,Comercial
+267,224,Estrada Brasil,580,Apto 32,Boa Viagem,São Paulo,SP,01000-723,Residencial
+268,225,Alameda das Flores,491,,Centro,Brasília,DF,70000-603,Residencial
+269,226,Avenida do Sol,1218,Apto 23,Pinheiros,São Paulo,SP,01000-125,Comercial
+270,227,Estrada do Sol,1092,Apto 97,Barra da Tijuca,Curitiba,PR,80000-175,Comercial
+271,228,Avenida das Flores,1569,Apto 38,Barra da Tijuca,Brasília,DF,70000-567,Comercial
+272,229,Avenida da Liberdade,587,Apto 25,Pinheiros,Fortaleza,CE,60000-914,Residencial
+273,230,Rua Sete de Setembro,776,,Savassi,Brasília,DF,70000-163,Residencial
+274,231,Travessa Brasil,1410,Apto 15,Pinheiros,Rio de Janeiro,RJ,20000-716,Residencial
+275,232,Praça do Sol,621,Apto 2,Savassi,Salvador,BA,40000-208,Comercial
+276,233,Praça Brasil,318,Apto 26,Ipanema,Rio de Janeiro,RJ,20000-366,Residencial
+277,234,Travessa do Sol,1638,Apto 36,Barra da Tijuca,Campinas,SP,13000-842,Comercial
+278,235,Travessa do Sol,1676,Apto 55,Asa Sul,Porto Alegre,RS,90000-823,Comercial
+279,236,Alameda XV de Novembro,1985,Apto 3,Copacabana,Rio de Janeiro,RJ,20000-823,Comercial
+280,237,Rua do Sol,1064,Apto 54,Savassi,Campinas,SP,13000-185,Comercial
+281,238,Travessa Sete de Setembro,492,Apto 71,Barra da Tijuca,Fortaleza,CE,60000-122,Residencial
+282,239,Alameda Verde,2336,,Asa Sul,Rio de Janeiro,RJ,20000-110,Residencial
+283,239,Rua Paulista,1551,Apto 75,Centro,São Paulo,SP,01000-783,Residencial
+284,240,Alameda Verde,124,Apto 30,Asa Sul,Salvador,BA,40000-674,Residencial
+285,241,Travessa das Flores,871,,Pinheiros,Goiânia,GO,74000-100,Residencial
+286,242,Rua da Liberdade,1892,Apto 77,Vila Mariana,São Paulo,SP,01000-294,Comercial
+287,243,Estrada Sete de Setembro,2234,,Barra da Tijuca,Campinas,SP,13000-273,Residencial
+288,244,Travessa Epitácio Pessoa,1638,,Asa Sul,Salvador,BA,40000-743,Residencial
+289,245,Alameda do Sol,1190,Apto 42,Vila Mariana,Recife,PE,50000-707,Residencial
+290,246,Rua Epitácio Pessoa,2637,Apto 36,Ipanema,Porto Alegre,RS,90000-620,Residencial
+291,247,Avenida Paulista,372,Apto 5,Jardins,Manaus,AM,69000-323,Residencial
+292,247,Estrada da Liberdade,666,Apto 60,Copacabana,Porto Alegre,RS,90000-451,Comercial
+293,248,Alameda Epitácio Pessoa,787,Apto 37,Vila Mariana,Fortaleza,CE,60000-497,Residencial
+294,249,Alameda da Liberdade,614,Apto 44,Boa Viagem,Rio de Janeiro,RJ,20000-644,Comercial
+295,249,Travessa Epitácio Pessoa,2893,,Asa Sul,São Paulo,SP,01000-406,Comercial
+296,250,Travessa XV de Novembro,817,,Vila Mariana,Rio de Janeiro,RJ,20000-933,Residencial
+297,251,Rua do Sol,1875,Apto 70,Pinheiros,Manaus,AM,69000-501,Residencial
+298,252,Praça Sete de Setembro,110,Apto 26,Ipanema,Curitiba,PR,80000-841,Residencial
+299,253,Travessa das Flores,1931,Apto 33,Copacabana,Rio de Janeiro,RJ,20000-827,Residencial
+300,254,Travessa Atlântica,1356,,Jardins,Porto Alegre,RS,90000-553,Comercial
+301,255,Estrada Epitácio Pessoa,2422,,Asa Sul,Manaus,AM,69000-252,Residencial
+302,255,Alameda Brasil,241,,Barra da Tijuca,São Paulo,SP,01000-551,Residencial
+303,256,Estrada da Liberdade,1326,,Asa Sul,Rio de Janeiro,RJ,20000-794,Comercial
+304,257,Rua do Sol,1777,,Asa Sul,Curitiba,PR,80000-917,Residencial
+305,258,Alameda Atlântica,1072,Apto 68,Pinheiros,Belo Horizonte,MG,30000-519,Residencial
+306,258,Praça Brasil,2955,Apto 43,Centro,Rio de Janeiro,RJ,20000-644,Comercial
+307,259,Rua Atlântica,1340,,Asa Sul,São Paulo,SP,01000-771,Comercial
+308,260,Rua Brasil,2859,,Savassi,São Paulo,SP,01000-801,Comercial
+309,261,Rua Atlântica,1234,,Vila Mariana,São Paulo,SP,01000-134,Comercial
+310,262,Avenida do Sol,1230,,Savassi,Curitiba,PR,80000-255,Comercial
+311,263,Rua do Sol,1067,Apto 22,Jardins,Manaus,AM,69000-660,Comercial
+312,263,Estrada da Liberdade,888,,Ipanema,Manaus,AM,69000-335,Residencial
+313,264,Alameda Epitácio Pessoa,2316,Apto 57,Jardins,Manaus,AM,69000-701,Comercial
+314,264,Travessa do Sol,1340,Apto 59,Jardins,Salvador,BA,40000-402,Residencial
+315,265,Avenida Epitácio Pessoa,729,Apto 59,Ipanema,Goiânia,GO,74000-514,Residencial
+316,266,Estrada Brasil,194,Apto 50,Pinheiros,São Paulo,SP,01000-967,Residencial
+317,267,Estrada Paulista,1698,Apto 36,Centro,Manaus,AM,69000-625,Residencial
+318,267,Praça Verde,340,Apto 76,Boa Viagem,Salvador,BA,40000-672,Comercial
+319,268,Avenida Atlântica,1279,,Boa Viagem,Manaus,AM,69000-293,Residencial
+320,268,Estrada do Sol,1270,,Copacabana,Rio de Janeiro,RJ,20000-543,Residencial
+321,269,Rua Sete de Setembro,1954,,Asa Sul,Rio de Janeiro,RJ,20000-303,Residencial
+322,270,Estrada da Liberdade,2678,Apto 32,Vila Mariana,Manaus,AM,69000-248,Comercial
+323,271,Praça Atlântica,2532,,Barra da Tijuca,Belo Horizonte,MG,30000-367,Residencial
+324,272,Estrada Paulista,2512,Apto 28,Jardins,Rio de Janeiro,RJ,20000-796,Comercial
+325,273,Travessa das Flores,2207,Apto 28,Savassi,Goiânia,GO,74000-288,Residencial
+326,274,Avenida Brasil,2837,Apto 94,Copacabana,Brasília,DF,70000-637,Residencial
+327,274,Alameda Brasil,1063,Apto 60,Centro,Goiânia,GO,74000-776,Residencial
+328,275,Avenida Atlântica,728,Apto 42,Asa Sul,Campinas,SP,13000-467,Comercial
+329,276,Avenida Paulista,2852,Apto 91,Boa Viagem,Campinas,SP,13000-724,Comercial
+330,277,Praça da Liberdade,2667,,Centro,Fortaleza,CE,60000-841,Residencial
+331,277,Alameda Verde,2283,,Asa Sul,Campinas,SP,13000-376,Residencial
+332,278,Estrada da Liberdade,2818,,Pinheiros,Goiânia,GO,74000-572,Residencial
+333,279,Praça Verde,1002,Apto 95,Centro,Recife,PE,50000-322,Residencial
+334,279,Rua Sete de Setembro,895,Apto 28,Ipanema,Curitiba,PR,80000-588,Comercial
+335,280,Rua Sete de Setembro,1179,,Centro,Manaus,AM,69000-408,Comercial
+336,281,Travessa Sete de Setembro,1308,Apto 63,Barra da Tijuca,São Paulo,SP,01000-223,Comercial
+337,282,Estrada Sete de Setembro,368,Apto 2,Centro,Curitiba,PR,80000-293,Residencial
+338,283,Rua Paulista,2644,,Asa Sul,Belo Horizonte,MG,30000-486,Comercial
+339,284,Praça Brasil,2226,,Ipanema,Recife,PE,50000-707,Residencial
+340,285,Travessa Paulista,826,Apto 92,Barra da Tijuca,Fortaleza,CE,60000-137,Comercial
+341,286,Estrada Epitácio Pessoa,1888,Apto 21,Boa Viagem,São Paulo,SP,01000-899,Residencial
+342,287,Estrada Sete de Setembro,2590,,Jardins,Belo Horizonte,MG,30000-333,Residencial
+343,288,Rua Brasil,477,,Savassi,Manaus,AM,69000-341,Residencial
+344,288,Rua Sete de Setembro,2809,Apto 20,Copacabana,Rio de Janeiro,RJ,20000-986,Comercial
+345,289,Travessa Brasil,424,Apto 70,Centro,Campinas,SP,13000-718,Residencial
+346,289,Rua XV de Novembro,1668,,Asa Sul,Campinas,SP,13000-963,Comercial
+347,290,Rua Epitácio Pessoa,240,Apto 93,Jardins,Salvador,BA,40000-791,Comercial
+348,291,Rua XV de Novembro,2195,Apto 12,Vila Mariana,Campinas,SP,13000-414,Comercial
+349,292,Praça Epitácio Pessoa,2459,,Ipanema,Belo Horizonte,MG,30000-242,Residencial
+350,293,Estrada Verde,2652,Apto 57,Pinheiros,Porto Alegre,RS,90000-682,Comercial
+351,294,Rua do Sol,1619,Apto 11,Pinheiros,Fortaleza,CE,60000-795,Residencial
+352,294,Rua Brasil,1427,Apto 80,Ipanema,São Paulo,SP,01000-875,Comercial
+353,295,Travessa Epitácio Pessoa,452,,Pinheiros,Recife,PE,50000-638,Residencial
+354,296,Avenida das Flores,1134,Apto 50,Vila Mariana,Fortaleza,CE,60000-760,Comercial
+355,297,Alameda XV de Novembro,999,,Savassi,Campinas,SP,13000-314,Residencial
+356,298,Rua da Liberdade,2686,,Jardins,Rio de Janeiro,RJ,20000-230,Comercial
+357,299,Alameda Brasil,1571,Apto 96,Asa Sul,Brasília,DF,70000-476,Comercial
+358,300,Travessa XV de Novembro,2728,Apto 43,Asa Sul,Manaus,AM,69000-684,Residencial
+359,300,Avenida Brasil,2361,Apto 35,Pinheiros,Fortaleza,CE,60000-503,Residencial
+360,301,Travessa XV de Novembro,2454,Apto 99,Barra da Tijuca,Recife,PE,50000-753,Residencial
+361,302,Estrada XV de Novembro,2201,Apto 65,Asa Sul,Rio de Janeiro,RJ,20000-122,Comercial
+362,303,Alameda do Sol,2932,Apto 23,Barra da Tijuca,Manaus,AM,69000-696,Residencial
+363,303,Praça Sete de Setembro,2641,,Centro,Campinas,SP,13000-783,Residencial
+364,304,Rua Verde,87,Apto 59,Barra da Tijuca,Brasília,DF,70000-262,Residencial
+365,305,Avenida Paulista,78,Apto 82,Pinheiros,Fortaleza,CE,60000-229,Comercial
+366,306,Praça Epitácio Pessoa,2143,,Centro,Belo Horizonte,MG,30000-462,Comercial
+367,307,Praça da Liberdade,381,Apto 89,Pinheiros,Manaus,AM,69000-154,Residencial
+368,308,Avenida do Sol,996,Apto 65,Ipanema,Fortaleza,CE,60000-962,Comercial
+369,309,Alameda do Sol,1093,Apto 33,Centro,Brasília,DF,70000-469,Comercial
+370,310,Alameda XV de Novembro,354,,Barra da Tijuca,Belo Horizonte,MG,30000-549,Residencial
+371,310,Praça das Flores,1546,Apto 56,Barra da Tijuca,Belo Horizonte,MG,30000-886,Residencial
+372,311,Praça Paulista,2144,Apto 40,Jardins,Campinas,SP,13000-815,Comercial
+373,312,Alameda XV de Novembro,2075,,Savassi,Belo Horizonte,MG,30000-639,Comercial
+374,313,Travessa Verde,2151,Apto 57,Copacabana,Campinas,SP,13000-403,Residencial
+375,314,Travessa Brasil,2561,Apto 9,Vila Mariana,Curitiba,PR,80000-274,Comercial
+376,314,Alameda XV de Novembro,1896,,Barra da Tijuca,Manaus,AM,69000-240,Comercial
+377,315,Travessa Sete de Setembro,1377,,Savassi,Curitiba,PR,80000-469,Comercial
+378,316,Rua Epitácio Pessoa,820,,Asa Sul,Manaus,AM,69000-453,Residencial
+379,317,Alameda Verde,971,Apto 83,Ipanema,Goiânia,GO,74000-354,Residencial
+380,318,Travessa Epitácio Pessoa,2228,Apto 30,Barra da Tijuca,Brasília,DF,70000-145,Comercial
+381,318,Praça Brasil,2474,Apto 37,Copacabana,Fortaleza,CE,60000-184,Comercial
+382,319,Alameda do Sol,1345,,Pinheiros,Goiânia,GO,74000-585,Comercial
+383,320,Estrada Sete de Setembro,513,Apto 87,Centro,Manaus,AM,69000-567,Comercial
+384,320,Alameda XV de Novembro,443,,Boa Viagem,Goiânia,GO,74000-899,Comercial
+385,321,Travessa do Sol,1065,,Asa Sul,Fortaleza,CE,60000-939,Residencial
+386,322,Travessa Epitácio Pessoa,263,Apto 46,Centro,São Paulo,SP,01000-856,Residencial
+387,323,Avenida das Flores,2043,,Asa Sul,Brasília,DF,70000-414,Residencial
+388,324,Avenida Epitácio Pessoa,2156,Apto 42,Pinheiros,Fortaleza,CE,60000-658,Comercial
+389,325,Alameda Atlântica,1197,,Savassi,Brasília,DF,70000-502,Comercial
+390,326,Alameda Epitácio Pessoa,293,Apto 61,Centro,Recife,PE,50000-634,Residencial
+391,327,Estrada Atlântica,212,,Jardins,Salvador,BA,40000-167,Residencial
+392,328,Praça das Flores,1768,,Pinheiros,Brasília,DF,70000-271,Residencial
+393,328,Praça Verde,1807,,Savassi,Goiânia,GO,74000-508,Residencial
+394,329,Praça Epitácio Pessoa,692,Apto 5,Centro,Brasília,DF,70000-138,Comercial
+395,330,Rua da Liberdade,2679,Apto 1,Pinheiros,Belo Horizonte,MG,30000-163,Residencial
+396,331,Alameda Verde,33,,Barra da Tijuca,Brasília,DF,70000-591,Residencial
+397,332,Alameda das Flores,1262,Apto 20,Pinheiros,Campinas,SP,13000-753,Residencial
+398,333,Estrada Epitácio Pessoa,1431,Apto 44,Centro,Goiânia,GO,74000-740,Residencial
+399,334,Estrada do Sol,2425,,Copacabana,Goiânia,GO,74000-459,Residencial
+400,335,Avenida das Flores,683,Apto 30,Asa Sul,Goiânia,GO,74000-957,Residencial
+401,336,Rua do Sol,1694,,Boa Viagem,Fortaleza,CE,60000-681,Residencial
+402,337,Praça Brasil,2640,Apto 26,Vila Mariana,São Paulo,SP,01000-227,Comercial
+403,338,Praça Epitácio Pessoa,1274,Apto 54,Pinheiros,Belo Horizonte,MG,30000-219,Comercial
+404,339,Estrada Verde,2108,Apto 84,Barra da Tijuca,Campinas,SP,13000-741,Comercial
+405,340,Praça Brasil,1747,,Asa Sul,Campinas,SP,13000-328,Comercial
+406,341,Praça Sete de Setembro,1539,Apto 22,Pinheiros,Brasília,DF,70000-966,Residencial
+407,342,Estrada Brasil,1500,Apto 4,Jardins,Goiânia,GO,74000-402,Comercial
+408,343,Rua das Flores,1155,,Jardins,Recife,PE,50000-294,Comercial
+409,344,Travessa Verde,372,Apto 22,Barra da Tijuca,Goiânia,GO,74000-530,Comercial
+410,345,Rua da Liberdade,2113,Apto 44,Ipanema,Recife,PE,50000-136,Residencial
+411,346,Rua XV de Novembro,354,,Asa Sul,Campinas,SP,13000-831,Residencial
+412,346,Alameda Epitácio Pessoa,694,Apto 32,Ipanema,Belo Horizonte,MG,30000-992,Comercial
+413,347,Rua Verde,1232,Apto 91,Pinheiros,Fortaleza,CE,60000-738,Comercial
+414,348,Estrada Epitácio Pessoa,1126,Apto 2,Asa Sul,Manaus,AM,69000-424,Comercial
+415,349,Estrada da Liberdade,574,,Ipanema,Salvador,BA,40000-977,Residencial
+416,350,Avenida das Flores,2068,Apto 90,Vila Mariana,Recife,PE,50000-240,Comercial
+417,351,Rua da Liberdade,2052,Apto 72,Asa Sul,Fortaleza,CE,60000-349,Comercial
+418,352,Rua Paulista,1592,Apto 70,Pinheiros,Salvador,BA,40000-706,Residencial
+419,353,Travessa Verde,2536,,Centro,Recife,PE,50000-447,Comercial
+420,354,Travessa Atlântica,2185,Apto 22,Copacabana,Porto Alegre,RS,90000-762,Comercial
+421,355,Alameda Brasil,1827,Apto 65,Asa Sul,Fortaleza,CE,60000-596,Residencial
+422,356,Avenida da Liberdade,591,Apto 68,Copacabana,Brasília,DF,70000-262,Comercial
+423,357,Praça da Liberdade,181,Apto 71,Jardins,São Paulo,SP,01000-957,Comercial
+424,358,Rua Epitácio Pessoa,1790,Apto 21,Asa Sul,Manaus,AM,69000-324,Residencial
+425,359,Estrada Atlântica,1086,Apto 63,Copacabana,Porto Alegre,RS,90000-493,Comercial
+426,360,Avenida da Liberdade,1357,,Barra da Tijuca,Salvador,BA,40000-761,Comercial
+427,361,Rua Epitácio Pessoa,1526,Apto 68,Vila Mariana,Porto Alegre,RS,90000-644,Residencial
+428,362,Travessa das Flores,2838,Apto 41,Jardins,Rio de Janeiro,RJ,20000-441,Residencial
+429,363,Rua da Liberdade,1801,,Centro,Goiânia,GO,74000-139,Comercial
+430,363,Avenida das Flores,215,Apto 85,Copacabana,Goiânia,GO,74000-586,Residencial
+431,364,Praça Paulista,2171,Apto 17,Savassi,Manaus,AM,69000-413,Residencial
+432,365,Estrada da Liberdade,981,Apto 97,Centro,Campinas,SP,13000-789,Comercial
+433,366,Alameda da Liberdade,1241,,Ipanema,Goiânia,GO,74000-467,Residencial
+434,366,Alameda Brasil,1212,,Jardins,Recife,PE,50000-994,Residencial
+435,367,Praça das Flores,342,Apto 15,Boa Viagem,Brasília,DF,70000-671,Residencial
+436,368,Rua do Sol,2763,Apto 70,Boa Viagem,Curitiba,PR,80000-102,Residencial
+437,369,Praça da Liberdade,2070,,Savassi,Salvador,BA,40000-658,Comercial
+438,370,Alameda Atlântica,357,Apto 26,Copacabana,Belo Horizonte,MG,30000-129,Comercial
+439,371,Travessa da Liberdade,127,Apto 21,Vila Mariana,Salvador,BA,40000-322,Residencial
+440,372,Praça Verde,867,,Copacabana,Brasília,DF,70000-600,Comercial
+441,373,Estrada Atlântica,1187,Apto 7,Ipanema,São Paulo,SP,01000-266,Comercial
+442,374,Travessa das Flores,2291,,Savassi,Fortaleza,CE,60000-158,Residencial
+443,375,Avenida Sete de Setembro,51,,Pinheiros,Manaus,AM,69000-276,Comercial
+444,375,Estrada Paulista,1745,Apto 48,Jardins,Fortaleza,CE,60000-968,Comercial
+445,376,Estrada Paulista,2815,Apto 5,Centro,Belo Horizonte,MG,30000-169,Residencial
+446,377,Estrada Brasil,886,,Asa Sul,Belo Horizonte,MG,30000-313,Comercial
+447,378,Alameda da Liberdade,2926,Apto 92,Savassi,Goiânia,GO,74000-759,Residencial
+448,378,Travessa Brasil,658,Apto 54,Centro,Recife,PE,50000-932,Comercial
+449,379,Rua do Sol,2860,Apto 37,Copacabana,São Paulo,SP,01000-564,Comercial
+450,380,Rua Atlântica,2645,Apto 74,Asa Sul,Belo Horizonte,MG,30000-837,Comercial
+451,380,Avenida Brasil,717,Apto 75,Barra da Tijuca,Fortaleza,CE,60000-219,Residencial
+452,381,Estrada das Flores,1423,Apto 26,Jardins,Rio de Janeiro,RJ,20000-770,Comercial
+453,381,Praça Paulista,1448,,Savassi,Brasília,DF,70000-710,Residencial
+454,382,Praça XV de Novembro,2890,Apto 50,Ipanema,Fortaleza,CE,60000-124,Comercial
+455,383,Estrada Brasil,2330,Apto 33,Copacabana,Fortaleza,CE,60000-383,Comercial
+456,384,Estrada das Flores,2195,Apto 97,Jardins,Rio de Janeiro,RJ,20000-469,Comercial
+457,385,Praça Sete de Setembro,35,,Pinheiros,Fortaleza,CE,60000-320,Comercial
+458,386,Travessa Epitácio Pessoa,2680,Apto 20,Barra da Tijuca,Brasília,DF,70000-123,Residencial
+459,387,Praça das Flores,697,Apto 83,Savassi,Brasília,DF,70000-124,Residencial
+460,388,Alameda XV de Novembro,2834,,Barra da Tijuca,Recife,PE,50000-785,Comercial
+461,389,Travessa Paulista,147,Apto 71,Asa Sul,Recife,PE,50000-504,Residencial
+462,390,Rua Verde,1831,,Boa Viagem,São Paulo,SP,01000-267,Residencial
+463,391,Praça Sete de Setembro,999,Apto 90,Barra da Tijuca,Rio de Janeiro,RJ,20000-663,Comercial
+464,392,Praça Verde,438,,Copacabana,Rio de Janeiro,RJ,20000-371,Comercial
+465,393,Estrada Atlântica,2280,,Ipanema,Fortaleza,CE,60000-223,Residencial
+466,394,Rua Verde,1004,,Pinheiros,Curitiba,PR,80000-548,Residencial
+467,395,Travessa da Liberdade,2720,Apto 12,Copacabana,Campinas,SP,13000-596,Residencial
+468,396,Praça Epitácio Pessoa,1764,Apto 11,Jardins,Rio de Janeiro,RJ,20000-474,Residencial
+469,397,Avenida Brasil,267,Apto 66,Savassi,Brasília,DF,70000-479,Comercial
+470,398,Alameda Atlântica,2121,Apto 19,Savassi,São Paulo,SP,01000-206,Residencial
+471,399,Praça XV de Novembro,2387,,Savassi,Brasília,DF,70000-370,Comercial
+472,400,Alameda Brasil,112,Apto 41,Copacabana,Manaus,AM,69000-553,Comercial
+473,401,Praça Atlântica,33,Apto 87,Jardins,Rio de Janeiro,RJ,20000-294,Residencial
+474,402,Travessa das Flores,2311,Apto 82,Centro,Campinas,SP,13000-520,Comercial
+475,403,Praça Atlântica,1397,,Asa Sul,Manaus,AM,69000-601,Residencial
+476,404,Praça do Sol,642,,Pinheiros,Curitiba,PR,80000-395,Comercial
+477,404,Rua XV de Novembro,729,Apto 44,Boa Viagem,Salvador,BA,40000-468,Residencial
+478,405,Avenida da Liberdade,2770,Apto 77,Boa Viagem,Recife,PE,50000-258,Comercial
+479,406,Praça Brasil,1605,,Asa Sul,Brasília,DF,70000-305,Comercial
+480,407,Rua Brasil,1253,Apto 16,Centro,Belo Horizonte,MG,30000-609,Comercial
+481,408,Praça Epitácio Pessoa,2931,Apto 90,Vila Mariana,Curitiba,PR,80000-169,Residencial
+482,408,Travessa Paulista,2043,Apto 88,Vila Mariana,Fortaleza,CE,60000-417,Residencial
+483,409,Travessa do Sol,1976,Apto 88,Centro,Rio de Janeiro,RJ,20000-426,Comercial
+484,410,Praça Epitácio Pessoa,2185,Apto 92,Asa Sul,Porto Alegre,RS,90000-444,Residencial
+485,410,Alameda do Sol,2946,Apto 35,Vila Mariana,Manaus,AM,69000-214,Residencial
+486,411,Praça Sete de Setembro,2340,,Savassi,Salvador,BA,40000-365,Comercial
+487,412,Avenida Atlântica,506,Apto 82,Barra da Tijuca,Goiânia,GO,74000-846,Residencial
+488,413,Travessa Paulista,2002,Apto 88,Ipanema,Brasília,DF,70000-677,Residencial
+489,414,Travessa Epitácio Pessoa,1355,,Barra da Tijuca,Belo Horizonte,MG,30000-923,Comercial
+490,414,Avenida do Sol,2876,Apto 34,Jardins,Curitiba,PR,80000-619,Comercial
+491,415,Alameda Epitácio Pessoa,688,Apto 68,Ipanema,São Paulo,SP,01000-396,Residencial
+492,416,Rua XV de Novembro,82,Apto 2,Barra da Tijuca,Campinas,SP,13000-606,Residencial
+493,417,Travessa das Flores,2083,,Barra da Tijuca,Porto Alegre,RS,90000-948,Residencial
+494,418,Rua Verde,749,Apto 30,Barra da Tijuca,Fortaleza,CE,60000-256,Residencial
+495,419,Travessa do Sol,102,,Pinheiros,Goiânia,GO,74000-608,Residencial
+496,420,Travessa do Sol,309,,Vila Mariana,Recife,PE,50000-337,Residencial
+497,420,Praça Sete de Setembro,986,,Boa Viagem,Manaus,AM,69000-555,Residencial
+498,421,Estrada Verde,176,Apto 15,Barra da Tijuca,Salvador,BA,40000-345,Comercial
+499,422,Alameda Paulista,655,,Barra da Tijuca,Goiânia,GO,74000-292,Comercial
+500,423,Alameda Brasil,2402,Apto 14,Vila Mariana,Brasília,DF,70000-312,Comercial
+501,424,Rua Sete de Setembro,1553,Apto 11,Ipanema,Brasília,DF,70000-708,Residencial
+502,424,Alameda Verde,2813,Apto 40,Barra da Tijuca,Belo Horizonte,MG,30000-772,Comercial
+503,425,Travessa da Liberdade,856,,Boa Viagem,Rio de Janeiro,RJ,20000-659,Comercial
+504,426,Estrada Verde,75,,Copacabana,Rio de Janeiro,RJ,20000-434,Residencial
+505,427,Estrada Paulista,27,Apto 27,Pinheiros,Rio de Janeiro,RJ,20000-974,Residencial
+506,428,Avenida da Liberdade,1922,Apto 61,Boa Viagem,Rio de Janeiro,RJ,20000-165,Residencial
+507,429,Rua Epitácio Pessoa,2133,,Pinheiros,Rio de Janeiro,RJ,20000-165,Residencial
+508,430,Avenida da Liberdade,2250,,Ipanema,Recife,PE,50000-905,Comercial
+509,430,Rua Sete de Setembro,2227,,Asa Sul,Curitiba,PR,80000-583,Residencial
+510,431,Travessa Paulista,2639,Apto 31,Centro,Belo Horizonte,MG,30000-786,Comercial
+511,431,Praça Verde,2153,Apto 27,Copacabana,Goiânia,GO,74000-791,Comercial
+512,432,Alameda Verde,1665,Apto 23,Asa Sul,São Paulo,SP,01000-691,Residencial
+513,433,Travessa Brasil,651,Apto 27,Asa Sul,Goiânia,GO,74000-173,Comercial
+514,433,Travessa XV de Novembro,1989,Apto 44,Centro,Goiânia,GO,74000-646,Comercial
+515,434,Estrada Epitácio Pessoa,2023,,Boa Viagem,São Paulo,SP,01000-197,Residencial
+516,434,Travessa Verde,2756,Apto 58,Savassi,Brasília,DF,70000-643,Residencial
+517,435,Alameda Atlântica,2625,,Ipanema,Curitiba,PR,80000-578,Residencial
+518,435,Rua do Sol,2783,,Jardins,Goiânia,GO,74000-702,Residencial
+519,436,Estrada do Sol,915,,Copacabana,Recife,PE,50000-277,Comercial
+520,436,Rua da Liberdade,2337,,Barra da Tijuca,Goiânia,GO,74000-110,Residencial
+521,437,Travessa Brasil,1900,,Barra da Tijuca,Manaus,AM,69000-616,Residencial
+522,438,Rua XV de Novembro,2198,,Vila Mariana,Porto Alegre,RS,90000-519,Residencial
+523,439,Estrada da Liberdade,2443,Apto 99,Ipanema,Belo Horizonte,MG,30000-354,Residencial
+524,440,Estrada das Flores,554,,Asa Sul,Goiânia,GO,74000-142,Residencial
+525,441,Estrada XV de Novembro,1509,,Ipanema,Rio de Janeiro,RJ,20000-574,Comercial
+526,441,Praça do Sol,654,Apto 37,Boa Viagem,Goiânia,GO,74000-540,Comercial
+527,442,Travessa do Sol,2547,Apto 85,Savassi,Goiânia,GO,74000-541,Comercial
+528,443,Avenida Atlântica,1468,Apto 50,Barra da Tijuca,Campinas,SP,13000-148,Residencial
+529,444,Travessa Paulista,1836,,Pinheiros,Fortaleza,CE,60000-138,Residencial
+530,445,Rua Atlântica,152,Apto 47,Barra da Tijuca,Fortaleza,CE,60000-518,Comercial
+531,446,Estrada Verde,2626,Apto 30,Copacabana,Belo Horizonte,MG,30000-702,Residencial
+532,447,Alameda Epitácio Pessoa,2958,,Vila Mariana,Curitiba,PR,80000-341,Residencial
+533,448,Avenida Atlântica,2451,Apto 64,Jardins,Belo Horizonte,MG,30000-350,Comercial
+534,449,Praça Brasil,2487,Apto 57,Vila Mariana,Goiânia,GO,74000-163,Residencial
+535,450,Alameda das Flores,2625,Apto 60,Jardins,Curitiba,PR,80000-493,Comercial
+536,451,Travessa Brasil,225,Apto 44,Pinheiros,Recife,PE,50000-882,Residencial
+537,452,Avenida do Sol,1122,Apto 82,Vila Mariana,Brasília,DF,70000-402,Comercial
+538,453,Rua do Sol,2744,Apto 57,Ipanema,Curitiba,PR,80000-930,Comercial
+539,453,Alameda XV de Novembro,1808,,Jardins,Salvador,BA,40000-947,Comercial
+540,454,Alameda Verde,947,,Jardins,Recife,PE,50000-422,Comercial
+541,455,Alameda da Liberdade,2568,,Centro,São Paulo,SP,01000-986,Residencial
+542,456,Alameda da Liberdade,701,Apto 51,Centro,Belo Horizonte,MG,30000-869,Residencial
+543,456,Avenida Atlântica,1074,Apto 99,Jardins,São Paulo,SP,01000-275,Comercial
+544,457,Avenida Verde,552,Apto 4,Asa Sul,Belo Horizonte,MG,30000-252,Residencial
+545,457,Praça das Flores,2446,,Vila Mariana,Belo Horizonte,MG,30000-528,Residencial
+546,458,Alameda Atlântica,909,,Centro,São Paulo,SP,01000-256,Residencial
+547,459,Alameda Sete de Setembro,668,Apto 35,Centro,São Paulo,SP,01000-498,Residencial
+548,460,Travessa Brasil,1980,,Barra da Tijuca,Curitiba,PR,80000-144,Residencial
+549,461,Alameda da Liberdade,2064,,Savassi,Recife,PE,50000-807,Comercial
+550,461,Alameda das Flores,2606,,Copacabana,Manaus,AM,69000-115,Comercial
+551,462,Praça XV de Novembro,2400,,Asa Sul,São Paulo,SP,01000-947,Residencial
+552,463,Travessa das Flores,2755,,Copacabana,São Paulo,SP,01000-957,Comercial
+553,464,Praça Verde,543,Apto 22,Asa Sul,Recife,PE,50000-265,Residencial
+554,465,Avenida Verde,2154,Apto 63,Savassi,Fortaleza,CE,60000-331,Comercial
+555,466,Rua Paulista,1576,Apto 97,Asa Sul,São Paulo,SP,01000-977,Residencial
+556,467,Praça Epitácio Pessoa,813,Apto 2,Pinheiros,Fortaleza,CE,60000-737,Comercial
+557,468,Rua Paulista,1080,Apto 98,Barra da Tijuca,Belo Horizonte,MG,30000-560,Residencial
+558,469,Estrada Sete de Setembro,1247,Apto 31,Savassi,Goiânia,GO,74000-671,Comercial
+559,470,Rua Atlântica,556,Apto 49,Jardins,Curitiba,PR,80000-287,Comercial
+560,471,Avenida das Flores,2709,,Barra da Tijuca,Rio de Janeiro,RJ,20000-711,Residencial
+561,472,Estrada Atlântica,2886,,Asa Sul,Salvador,BA,40000-441,Residencial
+562,473,Travessa Sete de Setembro,606,Apto 84,Centro,Fortaleza,CE,60000-270,Residencial
+563,473,Estrada do Sol,827,Apto 99,Barra da Tijuca,Manaus,AM,69000-112,Comercial
+564,474,Estrada Brasil,1019,Apto 89,Barra da Tijuca,Recife,PE,50000-818,Comercial
+565,475,Travessa das Flores,100,,Copacabana,Belo Horizonte,MG,30000-108,Comercial
+566,476,Praça da Liberdade,2282,,Asa Sul,Fortaleza,CE,60000-205,Comercial
+567,477,Travessa do Sol,118,,Vila Mariana,Porto Alegre,RS,90000-748,Residencial
+568,477,Estrada Atlântica,2128,,Centro,São Paulo,SP,01000-108,Residencial
+569,478,Alameda das Flores,366,Apto 72,Centro,São Paulo,SP,01000-680,Residencial
+570,479,Rua das Flores,809,,Barra da Tijuca,Brasília,DF,70000-592,Residencial
+571,480,Rua Epitácio Pessoa,431,Apto 75,Copacabana,Curitiba,PR,80000-475,Comercial
+572,481,Rua XV de Novembro,722,,Copacabana,Manaus,AM,69000-463,Residencial
+573,482,Travessa Atlântica,2090,Apto 74,Vila Mariana,Manaus,AM,69000-191,Comercial
+574,483,Avenida Paulista,2908,,Centro,Fortaleza,CE,60000-662,Comercial
+575,484,Estrada da Liberdade,929,Apto 90,Ipanema,Brasília,DF,70000-593,Residencial
+576,485,Alameda XV de Novembro,879,Apto 20,Savassi,Curitiba,PR,80000-514,Comercial
+577,486,Avenida Verde,1050,Apto 20,Copacabana,São Paulo,SP,01000-957,Comercial
+578,486,Rua Brasil,1196,Apto 13,Centro,Rio de Janeiro,RJ,20000-544,Residencial
+579,487,Estrada das Flores,1765,Apto 6,Savassi,Campinas,SP,13000-350,Comercial
+580,488,Rua Verde,883,,Centro,Brasília,DF,70000-822,Comercial
+581,488,Travessa Epitácio Pessoa,717,Apto 100,Ipanema,Recife,PE,50000-390,Residencial
+582,489,Alameda Brasil,962,,Savassi,Belo Horizonte,MG,30000-801,Residencial
+583,489,Travessa Brasil,2696,Apto 94,Boa Viagem,Manaus,AM,69000-852,Residencial
+584,490,Travessa Atlântica,1902,Apto 84,Asa Sul,Manaus,AM,69000-208,Residencial
+585,491,Praça Paulista,2262,,Pinheiros,Brasília,DF,70000-409,Comercial
+586,492,Alameda Brasil,1736,Apto 72,Copacabana,Curitiba,PR,80000-217,Residencial
+587,493,Praça Paulista,1067,Apto 38,Jardins,Manaus,AM,69000-186,Residencial
+588,494,Estrada Verde,1310,Apto 20,Asa Sul,Fortaleza,CE,60000-998,Residencial
+589,495,Travessa Sete de Setembro,1098,,Pinheiros,Porto Alegre,RS,90000-802,Residencial
+590,496,Praça das Flores,41,,Pinheiros,Campinas,SP,13000-992,Residencial
+591,496,Praça da Liberdade,1727,Apto 6,Barra da Tijuca,Salvador,BA,40000-404,Residencial
+592,497,Rua do Sol,2019,,Asa Sul,Brasília,DF,70000-676,Comercial
+593,498,Alameda XV de Novembro,2042,,Boa Viagem,Porto Alegre,RS,90000-302,Residencial
+594,499,Avenida Sete de Setembro,2278,Apto 40,Asa Sul,Goiânia,GO,74000-507,Comercial
+595,500,Avenida Sete de Setembro,2966,Apto 72,Centro,Porto Alegre,RS,90000-820,Comercial
+596,501,Avenida Verde,1373,,Jardins,Campinas,SP,13000-299,Comercial
+597,501,Avenida Sete de Setembro,532,Apto 93,Barra da Tijuca,Fortaleza,CE,60000-777,Residencial
+598,502,Rua do Sol,1096,Apto 9,Asa Sul,Belo Horizonte,MG,30000-745,Comercial
+599,503,Alameda do Sol,2817,,Jardins,Salvador,BA,40000-472,Residencial
+600,504,Estrada Sete de Setembro,1236,Apto 66,Pinheiros,Campinas,SP,13000-502,Comercial
+601,505,Alameda Epitácio Pessoa,1643,,Jardins,Rio de Janeiro,RJ,20000-533,Residencial
+602,505,Alameda Brasil,76,Apto 86,Ipanema,Belo Horizonte,MG,30000-463,Residencial
+603,506,Rua Sete de Setembro,171,,Ipanema,Fortaleza,CE,60000-213,Comercial
+604,507,Avenida das Flores,1644,,Ipanema,Salvador,BA,40000-589,Residencial
+605,507,Rua Sete de Setembro,1897,Apto 8,Boa Viagem,Goiânia,GO,74000-572,Residencial
+606,508,Rua Verde,1266,,Vila Mariana,Rio de Janeiro,RJ,20000-145,Residencial
+607,508,Avenida XV de Novembro,1579,,Centro,Curitiba,PR,80000-314,Residencial
+608,509,Alameda da Liberdade,2284,Apto 45,Asa Sul,Salvador,BA,40000-829,Comercial
+609,509,Praça das Flores,1616,Apto 44,Ipanema,Goiânia,GO,74000-834,Comercial
+610,510,Travessa Paulista,1091,Apto 89,Ipanema,Goiânia,GO,74000-160,Residencial
+611,511,Praça Brasil,1380,Apto 81,Pinheiros,Salvador,BA,40000-385,Residencial
+612,512,Praça Paulista,906,Apto 4,Boa Viagem,São Paulo,SP,01000-130,Residencial
+613,513,Estrada Paulista,177,Apto 21,Boa Viagem,Fortaleza,CE,60000-103,Comercial
+614,514,Alameda da Liberdade,2099,,Barra da Tijuca,Campinas,SP,13000-904,Comercial
+615,515,Rua Epitácio Pessoa,2427,Apto 89,Barra da Tijuca,Curitiba,PR,80000-607,Residencial
+616,516,Travessa Epitácio Pessoa,270,,Copacabana,Rio de Janeiro,RJ,20000-993,Comercial
+617,517,Praça das Flores,1566,Apto 19,Jardins,Recife,PE,50000-655,Residencial
+618,518,Avenida XV de Novembro,16,Apto 2,Centro,Campinas,SP,13000-316,Comercial
+619,519,Avenida Verde,465,Apto 18,Ipanema,Manaus,AM,69000-418,Residencial
+620,520,Alameda da Liberdade,417,Apto 15,Centro,Fortaleza,CE,60000-704,Residencial
+621,521,Rua Paulista,2803,Apto 36,Copacabana,Campinas,SP,13000-302,Residencial
+622,522,Travessa XV de Novembro,2007,Apto 23,Copacabana,Manaus,AM,69000-225,Residencial
+623,523,Avenida Paulista,216,,Asa Sul,Campinas,SP,13000-431,Residencial
+624,524,Rua Verde,800,Apto 49,Barra da Tijuca,Goiânia,GO,74000-893,Comercial
+625,525,Alameda Brasil,1146,Apto 28,Centro,Curitiba,PR,80000-913,Comercial
+626,526,Estrada Verde,816,Apto 4,Asa Sul,São Paulo,SP,01000-353,Comercial
+627,527,Travessa Sete de Setembro,1701,,Vila Mariana,Curitiba,PR,80000-182,Comercial
+628,528,Alameda Paulista,947,Apto 36,Savassi,Porto Alegre,RS,90000-940,Residencial
+629,529,Praça Brasil,1262,Apto 18,Centro,Fortaleza,CE,60000-182,Comercial
+630,529,Alameda Sete de Setembro,1168,,Savassi,Manaus,AM,69000-993,Residencial
+631,530,Rua Brasil,325,Apto 33,Copacabana,Fortaleza,CE,60000-964,Comercial
+632,530,Estrada Brasil,2447,Apto 23,Boa Viagem,Belo Horizonte,MG,30000-750,Comercial
+633,531,Avenida Sete de Setembro,367,,Vila Mariana,Recife,PE,50000-246,Comercial
+634,532,Travessa Sete de Setembro,1465,,Barra da Tijuca,Salvador,BA,40000-775,Residencial
+635,533,Rua Atlântica,1090,Apto 77,Savassi,Porto Alegre,RS,90000-158,Residencial
+636,534,Alameda da Liberdade,2673,,Centro,Manaus,AM,69000-969,Comercial
+637,535,Alameda Brasil,595,Apto 65,Barra da Tijuca,Campinas,SP,13000-733,Comercial
+638,536,Rua Paulista,602,Apto 80,Asa Sul,Fortaleza,CE,60000-190,Residencial
+639,537,Praça Paulista,2484,,Savassi,Belo Horizonte,MG,30000-126,Residencial
+640,538,Avenida das Flores,1729,,Vila Mariana,Rio de Janeiro,RJ,20000-910,Residencial
+641,539,Travessa Atlântica,896,,Savassi,Brasília,DF,70000-120,Comercial
+642,539,Rua Atlântica,1792,,Savassi,Manaus,AM,69000-401,Residencial
+643,540,Rua Epitácio Pessoa,723,Apto 95,Barra da Tijuca,Belo Horizonte,MG,30000-564,Residencial
+644,541,Travessa Sete de Setembro,1877,,Asa Sul,Belo Horizonte,MG,30000-273,Residencial
+645,541,Avenida Sete de Setembro,2301,,Savassi,Recife,PE,50000-752,Comercial
+646,542,Estrada Paulista,474,Apto 55,Asa Sul,Goiânia,GO,74000-791,Comercial
+647,543,Alameda das Flores,1441,Apto 34,Savassi,Porto Alegre,RS,90000-888,Comercial
+648,544,Travessa das Flores,1611,Apto 83,Asa Sul,Fortaleza,CE,60000-735,Comercial
+649,545,Rua das Flores,2558,Apto 37,Centro,Recife,PE,50000-350,Comercial
+650,546,Avenida Sete de Setembro,471,,Asa Sul,São Paulo,SP,01000-962,Comercial
+651,547,Rua da Liberdade,1710,,Boa Viagem,Goiânia,GO,74000-696,Residencial
+652,548,Alameda Brasil,1046,,Asa Sul,Porto Alegre,RS,90000-985,Comercial
+653,549,Avenida Verde,275,,Asa Sul,São Paulo,SP,01000-143,Comercial
+654,550,Praça Atlântica,2573,Apto 13,Barra da Tijuca,Manaus,AM,69000-891,Residencial
+655,551,Travessa Brasil,2514,Apto 27,Savassi,Brasília,DF,70000-501,Residencial
+656,552,Praça do Sol,1282,Apto 100,Centro,Recife,PE,50000-752,Residencial
+657,552,Estrada XV de Novembro,2062,,Barra da Tijuca,São Paulo,SP,01000-401,Comercial
+658,553,Estrada Verde,219,,Centro,Rio de Janeiro,RJ,20000-929,Comercial
+659,554,Alameda da Liberdade,1487,Apto 87,Barra da Tijuca,Recife,PE,50000-173,Residencial
+660,555,Avenida Verde,767,Apto 63,Centro,Campinas,SP,13000-433,Residencial
+661,556,Praça XV de Novembro,2416,Apto 34,Vila Mariana,Manaus,AM,69000-941,Comercial
+662,557,Alameda Verde,568,Apto 35,Barra da Tijuca,Rio de Janeiro,RJ,20000-331,Residencial
+663,558,Avenida Verde,2733,Apto 36,Centro,Goiânia,GO,74000-777,Comercial
+664,559,Travessa Atlântica,114,Apto 14,Savassi,Campinas,SP,13000-840,Comercial
+665,559,Rua XV de Novembro,1679,Apto 72,Asa Sul,Manaus,AM,69000-891,Residencial
+666,560,Rua Atlântica,1629,,Savassi,São Paulo,SP,01000-242,Comercial
+667,561,Praça da Liberdade,1997,,Barra da Tijuca,Goiânia,GO,74000-323,Residencial
+668,562,Avenida Brasil,75,Apto 86,Barra da Tijuca,Fortaleza,CE,60000-620,Comercial
+669,563,Avenida Verde,491,,Ipanema,Rio de Janeiro,RJ,20000-428,Comercial
+670,564,Alameda da Liberdade,800,Apto 19,Boa Viagem,Campinas,SP,13000-128,Residencial
+671,565,Avenida XV de Novembro,72,,Vila Mariana,Curitiba,PR,80000-190,Comercial
+672,566,Rua Epitácio Pessoa,1058,Apto 51,Barra da Tijuca,Goiânia,GO,74000-239,Residencial
+673,566,Praça Paulista,1983,,Asa Sul,Manaus,AM,69000-737,Residencial
+674,567,Alameda Verde,1140,,Centro,Rio de Janeiro,RJ,20000-830,Comercial
+675,568,Praça XV de Novembro,744,,Asa Sul,Porto Alegre,RS,90000-873,Residencial
+676,569,Praça Epitácio Pessoa,231,Apto 54,Ipanema,Curitiba,PR,80000-850,Comercial
+677,570,Estrada Paulista,2387,Apto 91,Vila Mariana,São Paulo,SP,01000-328,Residencial
+678,570,Alameda Atlântica,1420,,Boa Viagem,Salvador,BA,40000-220,Comercial
+679,571,Praça Verde,2824,Apto 51,Vila Mariana,Manaus,AM,69000-723,Residencial
+680,572,Estrada da Liberdade,2500,Apto 77,Ipanema,Belo Horizonte,MG,30000-145,Comercial
+681,573,Praça Atlântica,1166,Apto 60,Savassi,Rio de Janeiro,RJ,20000-455,Comercial
+682,574,Avenida Atlântica,1240,,Jardins,Manaus,AM,69000-137,Comercial
+683,575,Avenida Verde,272,Apto 74,Savassi,Belo Horizonte,MG,30000-885,Residencial
+684,575,Praça Epitácio Pessoa,2053,Apto 43,Ipanema,Manaus,AM,69000-568,Residencial
+685,576,Praça Sete de Setembro,560,Apto 11,Asa Sul,Belo Horizonte,MG,30000-866,Comercial
+686,576,Estrada da Liberdade,76,Apto 5,Centro,Manaus,AM,69000-496,Comercial
+687,577,Avenida da Liberdade,2161,,Barra da Tijuca,São Paulo,SP,01000-539,Residencial
+688,578,Avenida Atlântica,2169,Apto 65,Vila Mariana,Brasília,DF,70000-803,Comercial
+689,579,Estrada do Sol,619,Apto 44,Copacabana,Brasília,DF,70000-860,Residencial
+690,580,Rua Atlântica,1774,Apto 78,Copacabana,Brasília,DF,70000-610,Comercial
+691,581,Rua Paulista,861,,Asa Sul,Recife,PE,50000-976,Residencial
+692,581,Rua Epitácio Pessoa,906,Apto 38,Ipanema,Campinas,SP,13000-479,Comercial
+693,582,Alameda da Liberdade,2068,,Copacabana,Brasília,DF,70000-724,Residencial
+694,582,Estrada Brasil,167,Apto 42,Savassi,Campinas,SP,13000-728,Comercial
+695,583,Rua Brasil,2190,Apto 72,Jardins,Curitiba,PR,80000-546,Residencial
+696,584,Estrada da Liberdade,2334,Apto 84,Asa Sul,Rio de Janeiro,RJ,20000-832,Residencial
+697,585,Travessa do Sol,404,Apto 71,Savassi,São Paulo,SP,01000-209,Residencial
+698,585,Travessa Epitácio Pessoa,120,,Boa Viagem,Porto Alegre,RS,90000-448,Residencial
+699,586,Alameda das Flores,249,,Vila Mariana,São Paulo,SP,01000-436,Comercial
+700,587,Alameda XV de Novembro,551,,Vila Mariana,Rio de Janeiro,RJ,20000-665,Residencial
+701,588,Alameda Atlântica,244,Apto 64,Pinheiros,Belo Horizonte,MG,30000-515,Comercial
+702,589,Estrada Verde,597,,Vila Mariana,Goiânia,GO,74000-414,Comercial
+703,589,Avenida do Sol,2457,Apto 83,Pinheiros,Manaus,AM,69000-947,Comercial
+704,590,Praça das Flores,2904,Apto 19,Barra da Tijuca,São Paulo,SP,01000-414,Residencial
+705,591,Alameda da Liberdade,2756,,Boa Viagem,São Paulo,SP,01000-342,Comercial
+706,591,Travessa das Flores,112,,Vila Mariana,Curitiba,PR,80000-502,Residencial
+707,592,Alameda Sete de Setembro,1343,Apto 72,Savassi,Goiânia,GO,74000-549,Residencial
+708,592,Rua XV de Novembro,2115,,Asa Sul,Recife,PE,50000-298,Residencial
+709,593,Avenida XV de Novembro,1835,,Copacabana,Porto Alegre,RS,90000-812,Comercial
+710,594,Estrada das Flores,2553,Apto 46,Asa Sul,Recife,PE,50000-463,Residencial
+711,594,Avenida das Flores,447,Apto 64,Boa Viagem,São Paulo,SP,01000-957,Residencial
+712,595,Avenida Epitácio Pessoa,2052,Apto 3,Ipanema,São Paulo,SP,01000-237,Comercial
+713,596,Travessa do Sol,1871,,Copacabana,Curitiba,PR,80000-185,Residencial
+714,597,Alameda Epitácio Pessoa,993,,Jardins,Campinas,SP,13000-266,Comercial
+715,598,Travessa da Liberdade,1467,,Copacabana,Salvador,BA,40000-299,Residencial
+716,599,Avenida da Liberdade,30,,Barra da Tijuca,Fortaleza,CE,60000-558,Residencial
+717,600,Estrada Atlântica,1577,Apto 74,Jardins,Curitiba,PR,80000-833,Residencial
+718,601,Estrada Sete de Setembro,9,Apto 69,Ipanema,Fortaleza,CE,60000-900,Residencial
+719,601,Travessa XV de Novembro,2106,,Centro,Brasília,DF,70000-648,Residencial
+720,602,Travessa do Sol,583,,Barra da Tijuca,Goiânia,GO,74000-712,Residencial
+721,602,Rua Sete de Setembro,1250,Apto 60,Copacabana,Brasília,DF,70000-282,Residencial
+722,603,Praça Brasil,1637,,Boa Viagem,Rio de Janeiro,RJ,20000-742,Residencial
+723,604,Estrada da Liberdade,241,Apto 53,Barra da Tijuca,Salvador,BA,40000-176,Comercial
+724,605,Praça das Flores,675,,Jardins,Belo Horizonte,MG,30000-248,Residencial
+725,606,Travessa da Liberdade,1262,,Vila Mariana,Belo Horizonte,MG,30000-342,Residencial
+726,607,Alameda Epitácio Pessoa,2075,Apto 89,Boa Viagem,Goiânia,GO,74000-518,Comercial
+727,608,Estrada Paulista,684,Apto 6,Asa Sul,Rio de Janeiro,RJ,20000-322,Residencial
+728,609,Estrada da Liberdade,375,Apto 90,Savassi,Belo Horizonte,MG,30000-926,Comercial
+729,610,Rua Sete de Setembro,1927,Apto 78,Ipanema,Belo Horizonte,MG,30000-983,Comercial
+730,611,Praça das Flores,1406,,Asa Sul,Manaus,AM,69000-267,Comercial
+731,611,Rua Brasil,100,,Savassi,Campinas,SP,13000-597,Comercial
+732,612,Estrada Brasil,2880,,Asa Sul,Salvador,BA,40000-304,Comercial
+733,613,Rua Brasil,947,,Pinheiros,Brasília,DF,70000-203,Comercial
+734,614,Estrada Sete de Setembro,1862,,Savassi,Campinas,SP,13000-812,Comercial
+735,615,Travessa Sete de Setembro,2100,,Copacabana,Manaus,AM,69000-927,Residencial
+736,616,Travessa Sete de Setembro,603,Apto 13,Centro,Brasília,DF,70000-598,Residencial
+737,617,Travessa Epitácio Pessoa,43,,Asa Sul,Manaus,AM,69000-273,Residencial
+738,618,Travessa XV de Novembro,1633,Apto 58,Copacabana,Fortaleza,CE,60000-836,Residencial
+739,618,Alameda Atlântica,1446,Apto 48,Asa Sul,Manaus,AM,69000-424,Comercial
+740,619,Avenida Epitácio Pessoa,2128,,Ipanema,Goiânia,GO,74000-108,Comercial
+741,620,Estrada das Flores,2494,,Vila Mariana,Belo Horizonte,MG,30000-709,Residencial
+742,620,Estrada do Sol,2207,,Barra da Tijuca,Curitiba,PR,80000-487,Comercial
+743,621,Alameda Sete de Setembro,2556,Apto 6,Pinheiros,Belo Horizonte,MG,30000-154,Residencial
+744,621,Avenida Epitácio Pessoa,472,Apto 20,Boa Viagem,Campinas,SP,13000-882,Comercial
+745,622,Estrada Atlântica,209,,Jardins,Porto Alegre,RS,90000-242,Residencial
+746,623,Avenida Verde,2206,Apto 66,Savassi,Manaus,AM,69000-517,Residencial
+747,624,Praça Atlântica,1130,,Jardins,Fortaleza,CE,60000-801,Comercial
+748,625,Avenida Paulista,336,Apto 33,Boa Viagem,Campinas,SP,13000-889,Residencial
+749,626,Rua Sete de Setembro,1719,Apto 35,Boa Viagem,Curitiba,PR,80000-907,Comercial
+750,627,Estrada Epitácio Pessoa,1054,,Pinheiros,Manaus,AM,69000-366,Comercial
+751,628,Estrada Brasil,58,Apto 2,Asa Sul,Manaus,AM,69000-752,Residencial
+752,629,Avenida das Flores,940,Apto 100,Jardins,Fortaleza,CE,60000-196,Comercial
+753,629,Rua das Flores,1054,Apto 40,Savassi,Curitiba,PR,80000-367,Comercial
+754,630,Avenida da Liberdade,2364,Apto 20,Copacabana,Brasília,DF,70000-416,Comercial
+755,631,Travessa Epitácio Pessoa,2580,,Vila Mariana,Manaus,AM,69000-146,Residencial
+756,631,Estrada do Sol,2630,Apto 65,Centro,Fortaleza,CE,60000-375,Comercial
+757,632,Rua da Liberdade,2467,,Vila Mariana,Fortaleza,CE,60000-139,Residencial
+758,632,Praça Verde,650,Apto 25,Asa Sul,Goiânia,GO,74000-125,Residencial
+759,633,Travessa das Flores,2898,Apto 91,Vila Mariana,Campinas,SP,13000-824,Residencial
+760,634,Praça Verde,2201,,Centro,Porto Alegre,RS,90000-792,Residencial
+761,635,Avenida Verde,963,Apto 100,Barra da Tijuca,Rio de Janeiro,RJ,20000-894,Residencial
+762,636,Estrada Brasil,557,Apto 3,Asa Sul,Manaus,AM,69000-821,Residencial
+763,637,Praça Brasil,2208,Apto 33,Jardins,São Paulo,SP,01000-288,Comercial
+764,638,Praça Brasil,1591,Apto 91,Barra da Tijuca,Fortaleza,CE,60000-317,Residencial
+765,639,Rua XV de Novembro,2046,Apto 51,Asa Sul,Curitiba,PR,80000-592,Residencial
+766,640,Travessa da Liberdade,2548,Apto 17,Vila Mariana,Rio de Janeiro,RJ,20000-581,Residencial
+767,641,Praça da Liberdade,2680,Apto 83,Vila Mariana,Brasília,DF,70000-883,Residencial
+768,642,Travessa Paulista,2059,Apto 9,Pinheiros,Goiânia,GO,74000-806,Residencial
+769,643,Avenida Brasil,2050,,Ipanema,Fortaleza,CE,60000-229,Comercial
+770,644,Praça XV de Novembro,2884,Apto 57,Asa Sul,Goiânia,GO,74000-102,Comercial
+771,645,Rua Brasil,1735,,Pinheiros,Manaus,AM,69000-195,Comercial
+772,646,Avenida Epitácio Pessoa,86,,Ipanema,Belo Horizonte,MG,30000-885,Comercial
+773,646,Avenida XV de Novembro,2465,,Pinheiros,Goiânia,GO,74000-699,Comercial
+774,647,Praça da Liberdade,1750,,Asa Sul,São Paulo,SP,01000-152,Comercial
+775,648,Alameda Brasil,1640,,Centro,Salvador,BA,40000-217,Residencial
+776,649,Alameda XV de Novembro,1110,,Savassi,Manaus,AM,69000-996,Comercial
+777,650,Avenida da Liberdade,963,Apto 1,Boa Viagem,Rio de Janeiro,RJ,20000-996,Residencial
+778,651,Travessa do Sol,2612,,Centro,Rio de Janeiro,RJ,20000-651,Comercial
+779,651,Rua do Sol,2080,Apto 3,Barra da Tijuca,Belo Horizonte,MG,30000-868,Residencial
+780,652,Praça das Flores,2802,,Asa Sul,Salvador,BA,40000-336,Comercial
+781,653,Rua Atlântica,181,Apto 17,Boa Viagem,Manaus,AM,69000-887,Residencial
+782,654,Travessa das Flores,1011,Apto 11,Boa Viagem,Porto Alegre,RS,90000-883,Comercial
+783,655,Praça Paulista,2566,Apto 10,Copacabana,Rio de Janeiro,RJ,20000-710,Comercial
+784,656,Estrada do Sol,951,,Jardins,Fortaleza,CE,60000-772,Comercial
+785,657,Rua XV de Novembro,1776,Apto 91,Pinheiros,Curitiba,PR,80000-372,Comercial
+786,658,Travessa Atlântica,1185,,Pinheiros,Goiânia,GO,74000-938,Residencial
+787,659,Travessa da Liberdade,1340,Apto 59,Ipanema,Rio de Janeiro,RJ,20000-802,Residencial
+788,660,Alameda da Liberdade,171,Apto 66,Boa Viagem,Belo Horizonte,MG,30000-532,Comercial
+789,661,Estrada Atlântica,1660,Apto 30,Centro,Rio de Janeiro,RJ,20000-549,Comercial
+790,662,Estrada Brasil,168,,Asa Sul,Belo Horizonte,MG,30000-611,Residencial
+791,663,Estrada Atlântica,736,Apto 80,Pinheiros,Brasília,DF,70000-335,Residencial
+792,664,Rua Brasil,1749,,Jardins,Campinas,SP,13000-156,Comercial
+793,665,Travessa Brasil,1285,,Boa Viagem,Brasília,DF,70000-253,Comercial
+794,666,Avenida XV de Novembro,630,,Boa Viagem,Curitiba,PR,80000-881,Residencial
+795,667,Travessa Verde,2519,Apto 7,Ipanema,Belo Horizonte,MG,30000-134,Residencial
+796,668,Alameda da Liberdade,580,,Copacabana,Curitiba,PR,80000-938,Comercial
+797,669,Estrada Atlântica,2072,Apto 12,Ipanema,Brasília,DF,70000-510,Residencial
+798,670,Alameda Epitácio Pessoa,2109,,Vila Mariana,Rio de Janeiro,RJ,20000-641,Residencial
+799,671,Alameda Verde,331,,Barra da Tijuca,São Paulo,SP,01000-885,Residencial
+800,672,Praça Brasil,1485,Apto 91,Barra da Tijuca,Campinas,SP,13000-108,Comercial
+801,673,Rua da Liberdade,1807,Apto 11,Boa Viagem,Curitiba,PR,80000-421,Comercial
+802,674,Rua Brasil,1726,Apto 58,Pinheiros,Manaus,AM,69000-207,Residencial
+803,674,Praça Epitácio Pessoa,2645,Apto 88,Ipanema,Manaus,AM,69000-660,Residencial
+804,675,Alameda Epitácio Pessoa,725,,Copacabana,Belo Horizonte,MG,30000-624,Comercial
+805,676,Avenida Sete de Setembro,1030,,Savassi,Porto Alegre,RS,90000-137,Comercial
+806,677,Avenida XV de Novembro,1890,,Pinheiros,Porto Alegre,RS,90000-252,Comercial
+807,677,Rua Sete de Setembro,976,Apto 91,Savassi,Goiânia,GO,74000-329,Comercial
+808,678,Travessa Sete de Setembro,908,Apto 99,Centro,Belo Horizonte,MG,30000-431,Residencial
+809,678,Travessa do Sol,1524,Apto 62,Pinheiros,Manaus,AM,69000-189,Residencial
+810,679,Travessa Verde,1318,Apto 65,Savassi,Curitiba,PR,80000-944,Residencial
+811,680,Praça Paulista,2084,Apto 11,Copacabana,Recife,PE,50000-214,Residencial
+812,681,Praça Paulista,1246,Apto 70,Vila Mariana,Brasília,DF,70000-963,Residencial
+813,682,Avenida Atlântica,227,Apto 45,Asa Sul,Recife,PE,50000-889,Residencial
+814,683,Travessa Sete de Setembro,537,,Centro,Campinas,SP,13000-257,Residencial
+815,684,Alameda XV de Novembro,407,,Vila Mariana,Goiânia,GO,74000-128,Comercial
+816,685,Alameda das Flores,2258,Apto 93,Ipanema,Campinas,SP,13000-169,Residencial
+817,685,Avenida Verde,1110,Apto 92,Asa Sul,Brasília,DF,70000-353,Comercial
+818,686,Rua Verde,2092,Apto 71,Boa Viagem,Fortaleza,CE,60000-409,Residencial
+819,687,Estrada Sete de Setembro,2632,Apto 33,Centro,Campinas,SP,13000-495,Residencial
+820,687,Estrada Sete de Setembro,1624,Apto 27,Copacabana,Manaus,AM,69000-111,Residencial
+821,688,Rua Verde,284,Apto 88,Copacabana,Recife,PE,50000-433,Comercial
+822,688,Praça Atlântica,2729,Apto 20,Asa Sul,Brasília,DF,70000-280,Residencial
+823,689,Travessa das Flores,1416,Apto 51,Ipanema,Porto Alegre,RS,90000-195,Residencial
+824,690,Alameda Epitácio Pessoa,2126,,Copacabana,São Paulo,SP,01000-685,Comercial
+825,690,Rua da Liberdade,1117,Apto 56,Copacabana,São Paulo,SP,01000-374,Comercial
+826,691,Travessa Sete de Setembro,2047,,Asa Sul,Recife,PE,50000-291,Residencial
+827,692,Avenida Verde,666,,Jardins,Rio de Janeiro,RJ,20000-758,Residencial
+828,693,Estrada Verde,910,,Barra da Tijuca,São Paulo,SP,01000-568,Residencial
+829,694,Estrada do Sol,705,,Boa Viagem,Belo Horizonte,MG,30000-186,Comercial
+830,695,Rua Sete de Setembro,1500,Apto 59,Boa Viagem,Campinas,SP,13000-294,Comercial
+831,696,Rua do Sol,565,,Vila Mariana,Goiânia,GO,74000-848,Residencial
+832,697,Estrada XV de Novembro,2582,Apto 83,Asa Sul,Recife,PE,50000-340,Comercial
+833,698,Rua Sete de Setembro,2718,Apto 98,Centro,Fortaleza,CE,60000-117,Comercial
+834,698,Estrada Brasil,390,Apto 43,Centro,Campinas,SP,13000-897,Residencial
+835,699,Praça da Liberdade,691,Apto 9,Vila Mariana,São Paulo,SP,01000-753,Residencial
+836,700,Estrada Sete de Setembro,2659,,Copacabana,Curitiba,PR,80000-564,Comercial
+837,700,Praça Verde,2785,,Boa Viagem,Salvador,BA,40000-411,Comercial
+838,701,Avenida da Liberdade,787,Apto 22,Jardins,Porto Alegre,RS,90000-108,Residencial
+839,701,Estrada do Sol,861,Apto 4,Savassi,Salvador,BA,40000-660,Residencial
+840,702,Rua Epitácio Pessoa,1456,Apto 37,Savassi,Curitiba,PR,80000-932,Residencial
+841,703,Praça Verde,547,Apto 64,Copacabana,Recife,PE,50000-280,Residencial
+842,704,Avenida Epitácio Pessoa,1916,Apto 88,Centro,Salvador,BA,40000-984,Residencial
+843,705,Travessa Atlântica,2003,,Copacabana,Goiânia,GO,74000-665,Comercial
+844,706,Estrada Sete de Setembro,2340,,Barra da Tijuca,Salvador,BA,40000-672,Comercial
+845,707,Travessa Verde,1586,Apto 77,Barra da Tijuca,Recife,PE,50000-544,Comercial
+846,707,Rua Atlântica,101,Apto 98,Vila Mariana,Rio de Janeiro,RJ,20000-154,Comercial
+847,708,Travessa Verde,2654,Apto 73,Boa Viagem,Rio de Janeiro,RJ,20000-617,Residencial
+848,709,Estrada Epitácio Pessoa,1584,,Asa Sul,Fortaleza,CE,60000-964,Comercial
+849,709,Estrada XV de Novembro,2751,,Ipanema,Curitiba,PR,80000-814,Comercial
+850,710,Estrada das Flores,2024,Apto 19,Savassi,Campinas,SP,13000-420,Residencial
+851,711,Estrada das Flores,2383,Apto 97,Copacabana,Recife,PE,50000-850,Residencial
+852,711,Travessa da Liberdade,1366,,Asa Sul,Goiânia,GO,74000-416,Residencial
+853,712,Rua da Liberdade,1184,,Copacabana,Curitiba,PR,80000-428,Comercial
+854,713,Avenida do Sol,165,Apto 45,Savassi,Manaus,AM,69000-402,Comercial
+855,714,Travessa Epitácio Pessoa,2443,Apto 86,Centro,Belo Horizonte,MG,30000-244,Comercial
+856,714,Estrada Verde,1349,Apto 70,Ipanema,Goiânia,GO,74000-675,Residencial
+857,715,Alameda Brasil,307,Apto 41,Ipanema,São Paulo,SP,01000-949,Comercial
+858,716,Travessa Verde,253,,Vila Mariana,Curitiba,PR,80000-719,Residencial
+859,717,Praça Epitácio Pessoa,2271,,Centro,São Paulo,SP,01000-409,Comercial
+860,718,Alameda das Flores,2151,,Copacabana,Curitiba,PR,80000-938,Comercial
+861,719,Avenida Epitácio Pessoa,2348,Apto 78,Boa Viagem,Salvador,BA,40000-234,Residencial
+862,720,Travessa Verde,1842,,Savassi,Recife,PE,50000-428,Comercial
+863,721,Travessa Sete de Setembro,318,Apto 24,Savassi,Manaus,AM,69000-730,Residencial
+864,721,Estrada do Sol,573,Apto 41,Copacabana,São Paulo,SP,01000-379,Residencial
+865,722,Praça das Flores,1182,Apto 54,Boa Viagem,Campinas,SP,13000-982,Residencial
+866,723,Estrada Paulista,2342,,Savassi,Curitiba,PR,80000-742,Comercial
+867,724,Alameda Sete de Setembro,1874,Apto 4,Ipanema,São Paulo,SP,01000-774,Comercial
+868,725,Praça Sete de Setembro,2441,,Asa Sul,Recife,PE,50000-469,Comercial
+869,726,Alameda Brasil,2183,Apto 81,Jardins,Manaus,AM,69000-360,Residencial
+870,727,Alameda Epitácio Pessoa,1695,,Copacabana,Manaus,AM,69000-183,Comercial
+871,727,Travessa da Liberdade,212,Apto 26,Centro,Recife,PE,50000-494,Residencial
+872,728,Estrada das Flores,1304,Apto 18,Pinheiros,São Paulo,SP,01000-244,Residencial
+873,729,Avenida Brasil,382,Apto 30,Barra da Tijuca,Salvador,BA,40000-729,Comercial
+874,730,Travessa Atlântica,2922,,Pinheiros,Brasília,DF,70000-946,Comercial
+875,731,Rua do Sol,91,Apto 90,Savassi,Belo Horizonte,MG,30000-917,Comercial
+876,732,Estrada Sete de Setembro,97,Apto 90,Centro,Fortaleza,CE,60000-611,Comercial
+877,732,Rua XV de Novembro,530,Apto 83,Centro,Belo Horizonte,MG,30000-103,Residencial
+878,733,Rua Epitácio Pessoa,362,Apto 47,Barra da Tijuca,Brasília,DF,70000-520,Residencial
+879,733,Travessa Verde,2684,Apto 18,Copacabana,Fortaleza,CE,60000-145,Residencial
+880,734,Rua Brasil,2523,Apto 42,Ipanema,Belo Horizonte,MG,30000-504,Residencial
+881,735,Alameda Paulista,2006,Apto 92,Pinheiros,Rio de Janeiro,RJ,20000-232,Residencial
+882,735,Alameda Paulista,1803,Apto 52,Centro,Salvador,BA,40000-146,Comercial
+883,736,Alameda Atlântica,57,,Centro,São Paulo,SP,01000-627,Residencial
+884,736,Alameda Sete de Setembro,601,Apto 34,Centro,São Paulo,SP,01000-863,Comercial
+885,737,Estrada Brasil,2720,,Barra da Tijuca,Goiânia,GO,74000-898,Comercial
+886,738,Travessa Sete de Setembro,2019,Apto 37,Asa Sul,Salvador,BA,40000-553,Residencial
+887,739,Alameda Paulista,1584,,Asa Sul,Goiânia,GO,74000-172,Comercial
+888,740,Praça Epitácio Pessoa,1595,Apto 86,Boa Viagem,Belo Horizonte,MG,30000-545,Residencial
+889,740,Avenida Brasil,2101,Apto 77,Vila Mariana,Brasília,DF,70000-941,Comercial
+890,741,Praça da Liberdade,2860,,Savassi,Fortaleza,CE,60000-632,Comercial
+891,742,Rua XV de Novembro,1763,,Pinheiros,Porto Alegre,RS,90000-451,Comercial
+892,743,Travessa da Liberdade,1202,Apto 39,Centro,Fortaleza,CE,60000-372,Comercial
+893,744,Alameda Atlântica,817,Apto 34,Copacabana,Rio de Janeiro,RJ,20000-785,Comercial
+894,745,Praça Paulista,2688,Apto 67,Centro,Porto Alegre,RS,90000-261,Comercial
+895,746,Travessa Epitácio Pessoa,1142,Apto 63,Savassi,Rio de Janeiro,RJ,20000-882,Comercial
+896,747,Avenida das Flores,1360,Apto 81,Copacabana,São Paulo,SP,01000-836,Residencial
+897,747,Alameda das Flores,2644,Apto 20,Pinheiros,Goiânia,GO,74000-546,Comercial
+898,748,Praça do Sol,1704,,Savassi,Goiânia,GO,74000-634,Residencial
+899,748,Avenida da Liberdade,1333,,Copacabana,Manaus,AM,69000-422,Comercial
+900,749,Avenida Brasil,613,Apto 30,Copacabana,Campinas,SP,13000-594,Residencial
+901,750,Alameda Sete de Setembro,1510,,Pinheiros,Fortaleza,CE,60000-746,Comercial
+902,751,Praça do Sol,2951,Apto 3,Centro,Belo Horizonte,MG,30000-612,Residencial
+903,751,Rua Sete de Setembro,2308,,Boa Viagem,Manaus,AM,69000-121,Residencial
+904,752,Praça Epitácio Pessoa,2936,Apto 64,Centro,Belo Horizonte,MG,30000-865,Residencial
+905,753,Estrada Verde,225,,Barra da Tijuca,Porto Alegre,RS,90000-382,Residencial
+906,753,Rua das Flores,1892,Apto 18,Ipanema,Goiânia,GO,74000-113,Residencial
+907,754,Alameda da Liberdade,1387,Apto 8,Pinheiros,Campinas,SP,13000-101,Residencial
+908,754,Avenida da Liberdade,2601,Apto 80,Jardins,Porto Alegre,RS,90000-482,Comercial
+909,755,Rua Brasil,2102,,Vila Mariana,Belo Horizonte,MG,30000-578,Comercial
+910,756,Avenida Brasil,1906,Apto 9,Boa Viagem,Curitiba,PR,80000-302,Residencial
+911,757,Travessa Verde,1560,,Ipanema,Goiânia,GO,74000-469,Residencial
+912,758,Estrada do Sol,2254,Apto 70,Barra da Tijuca,Fortaleza,CE,60000-450,Residencial
+913,759,Travessa Brasil,2894,Apto 48,Boa Viagem,Rio de Janeiro,RJ,20000-537,Residencial
+914,760,Estrada Atlântica,1847,Apto 28,Centro,Campinas,SP,13000-373,Residencial
+915,761,Travessa Brasil,2755,Apto 72,Pinheiros,São Paulo,SP,01000-850,Comercial
+916,762,Praça do Sol,2317,,Ipanema,Salvador,BA,40000-259,Residencial
+917,763,Rua do Sol,2606,Apto 17,Vila Mariana,Recife,PE,50000-596,Residencial
+918,764,Estrada do Sol,2732,Apto 84,Vila Mariana,Campinas,SP,13000-257,Residencial
+919,765,Alameda Paulista,1590,Apto 7,Boa Viagem,Rio de Janeiro,RJ,20000-860,Comercial
+920,766,Travessa Epitácio Pessoa,2102,,Boa Viagem,Curitiba,PR,80000-531,Residencial
+921,766,Travessa Atlântica,2531,Apto 15,Barra da Tijuca,Porto Alegre,RS,90000-250,Residencial
+922,767,Avenida das Flores,605,Apto 44,Asa Sul,Fortaleza,CE,60000-290,Comercial
+923,768,Rua Sete de Setembro,2448,,Jardins,São Paulo,SP,01000-465,Residencial
+924,768,Alameda Sete de Setembro,173,,Asa Sul,Recife,PE,50000-905,Residencial
+925,769,Rua da Liberdade,2372,Apto 89,Barra da Tijuca,Recife,PE,50000-108,Residencial
+926,769,Rua das Flores,202,Apto 71,Asa Sul,Rio de Janeiro,RJ,20000-203,Comercial
+927,770,Avenida das Flores,949,Apto 73,Pinheiros,São Paulo,SP,01000-295,Residencial
+928,771,Alameda XV de Novembro,294,,Pinheiros,Manaus,AM,69000-943,Comercial
+929,772,Estrada da Liberdade,248,,Asa Sul,Porto Alegre,RS,90000-811,Residencial
+930,772,Travessa XV de Novembro,2481,Apto 1,Asa Sul,Rio de Janeiro,RJ,20000-149,Comercial
+931,773,Alameda Atlântica,1814,Apto 82,Barra da Tijuca,São Paulo,SP,01000-377,Residencial
+932,773,Praça das Flores,23,Apto 74,Jardins,Manaus,AM,69000-358,Comercial
+933,774,Travessa Verde,2836,,Copacabana,São Paulo,SP,01000-281,Residencial
+934,775,Estrada das Flores,1265,,Asa Sul,Manaus,AM,69000-601,Residencial
+935,776,Travessa Sete de Setembro,192,Apto 36,Boa Viagem,São Paulo,SP,01000-200,Residencial
+936,777,Estrada XV de Novembro,1994,Apto 45,Jardins,Belo Horizonte,MG,30000-802,Residencial
+937,777,Rua do Sol,1285,Apto 42,Boa Viagem,Fortaleza,CE,60000-878,Residencial
+938,778,Estrada Paulista,1009,Apto 86,Boa Viagem,Recife,PE,50000-456,Comercial
+939,779,Alameda Brasil,514,,Copacabana,Curitiba,PR,80000-911,Comercial
+940,780,Travessa Verde,335,Apto 67,Ipanema,Manaus,AM,69000-508,Residencial
+941,781,Praça Sete de Setembro,2681,,Ipanema,Salvador,BA,40000-850,Comercial
+942,781,Avenida Verde,2259,,Boa Viagem,Goiânia,GO,74000-115,Comercial
+943,782,Rua Paulista,1924,,Copacabana,Salvador,BA,40000-284,Comercial
+944,782,Avenida da Liberdade,326,Apto 42,Centro,Recife,PE,50000-223,Comercial
+945,783,Avenida Paulista,484,,Jardins,Rio de Janeiro,RJ,20000-385,Residencial
+946,784,Travessa Atlântica,134,Apto 41,Vila Mariana,São Paulo,SP,01000-438,Comercial
+947,785,Rua Epitácio Pessoa,1004,,Centro,Belo Horizonte,MG,30000-884,Residencial
+948,786,Praça Verde,2694,,Jardins,Goiânia,GO,74000-623,Comercial
+949,787,Rua Epitácio Pessoa,580,,Boa Viagem,Belo Horizonte,MG,30000-359,Comercial
+950,787,Rua das Flores,2480,Apto 11,Centro,Brasília,DF,70000-920,Residencial
+951,788,Alameda do Sol,2481,,Vila Mariana,Curitiba,PR,80000-403,Residencial
+952,789,Estrada Atlântica,2915,Apto 16,Boa Viagem,Belo Horizonte,MG,30000-465,Residencial
+953,789,Avenida Brasil,710,,Savassi,Rio de Janeiro,RJ,20000-997,Comercial
+954,790,Rua Sete de Setembro,1511,Apto 86,Copacabana,Campinas,SP,13000-719,Comercial
+955,791,Alameda Brasil,1658,Apto 98,Pinheiros,Manaus,AM,69000-325,Residencial
+956,792,Alameda XV de Novembro,358,Apto 40,Pinheiros,Salvador,BA,40000-660,Comercial
+957,793,Rua do Sol,2701,Apto 43,Copacabana,São Paulo,SP,01000-610,Residencial
+958,794,Travessa XV de Novembro,1127,Apto 26,Vila Mariana,Rio de Janeiro,RJ,20000-425,Residencial
+959,795,Avenida do Sol,1712,Apto 15,Vila Mariana,Salvador,BA,40000-928,Residencial
+960,796,Praça Epitácio Pessoa,925,Apto 19,Jardins,Campinas,SP,13000-654,Comercial
+961,797,Travessa Verde,1714,Apto 38,Vila Mariana,Fortaleza,CE,60000-988,Residencial
+962,797,Estrada Brasil,1963,,Savassi,Campinas,SP,13000-966,Residencial
+963,798,Estrada Epitácio Pessoa,1890,,Ipanema,Campinas,SP,13000-485,Comercial
+964,798,Alameda Brasil,1354,Apto 89,Ipanema,Salvador,BA,40000-207,Residencial
+965,799,Rua Epitácio Pessoa,622,Apto 24,Boa Viagem,Salvador,BA,40000-240,Comercial
+966,800,Rua Verde,1793,Apto 55,Copacabana,Belo Horizonte,MG,30000-354,Residencial
+967,801,Travessa Paulista,614,Apto 83,Copacabana,Campinas,SP,13000-670,Residencial
+968,802,Estrada Verde,2702,,Boa Viagem,Belo Horizonte,MG,30000-435,Comercial
+969,803,Rua Verde,2363,,Boa Viagem,Manaus,AM,69000-388,Comercial
+970,804,Alameda da Liberdade,2484,Apto 34,Boa Viagem,Belo Horizonte,MG,30000-854,Comercial
+971,805,Alameda Epitácio Pessoa,2762,Apto 37,Ipanema,Rio de Janeiro,RJ,20000-549,Residencial
+972,806,Estrada Brasil,2005,Apto 98,Savassi,Brasília,DF,70000-699,Residencial
+973,807,Rua Sete de Setembro,1024,,Pinheiros,Belo Horizonte,MG,30000-344,Comercial
+974,808,Praça XV de Novembro,2276,Apto 56,Boa Viagem,Recife,PE,50000-390,Residencial
+975,809,Praça da Liberdade,2944,,Asa Sul,Curitiba,PR,80000-356,Residencial
+976,810,Rua Sete de Setembro,1983,,Savassi,Brasília,DF,70000-726,Residencial
+977,811,Travessa Epitácio Pessoa,1730,Apto 77,Barra da Tijuca,Manaus,AM,69000-699,Comercial
+978,812,Rua do Sol,19,,Savassi,Curitiba,PR,80000-519,Residencial
+979,813,Estrada Paulista,547,,Pinheiros,Campinas,SP,13000-204,Comercial
+980,814,Travessa do Sol,457,Apto 3,Ipanema,Belo Horizonte,MG,30000-103,Residencial
+981,815,Estrada Verde,262,,Jardins,Campinas,SP,13000-879,Residencial
+982,816,Praça XV de Novembro,2305,Apto 38,Barra da Tijuca,Manaus,AM,69000-209,Residencial
+983,817,Avenida Brasil,502,Apto 4,Asa Sul,Rio de Janeiro,RJ,20000-421,Residencial
+984,818,Praça do Sol,795,Apto 30,Asa Sul,Campinas,SP,13000-699,Residencial
+985,819,Travessa Verde,2120,Apto 53,Boa Viagem,Belo Horizonte,MG,30000-586,Residencial
+986,820,Praça Brasil,2396,Apto 65,Barra da Tijuca,Goiânia,GO,74000-847,Residencial
+987,821,Travessa do Sol,1750,,Barra da Tijuca,Recife,PE,50000-456,Residencial
+988,822,Praça Epitácio Pessoa,1024,Apto 77,Vila Mariana,Campinas,SP,13000-902,Residencial
+989,823,Estrada Sete de Setembro,564,Apto 17,Jardins,Recife,PE,50000-192,Comercial
+990,824,Praça da Liberdade,1093,,Ipanema,Manaus,AM,69000-670,Residencial
+991,825,Avenida Epitácio Pessoa,2839,Apto 84,Ipanema,Manaus,AM,69000-143,Comercial
+992,826,Praça Sete de Setembro,2634,,Savassi,Manaus,AM,69000-722,Residencial
+993,827,Estrada Brasil,271,,Jardins,São Paulo,SP,01000-180,Comercial
+994,827,Alameda Verde,2189,,Copacabana,Curitiba,PR,80000-684,Residencial
+995,828,Alameda Epitácio Pessoa,1842,Apto 64,Boa Viagem,Manaus,AM,69000-229,Comercial
+996,829,Praça Verde,1532,,Asa Sul,Brasília,DF,70000-172,Comercial
+997,830,Praça das Flores,782,Apto 64,Boa Viagem,Campinas,SP,13000-211,Residencial
+998,831,Estrada Sete de Setembro,1146,,Vila Mariana,São Paulo,SP,01000-607,Residencial
+999,832,Alameda do Sol,1718,Apto 8,Centro,Belo Horizonte,MG,30000-645,Comercial
+1000,833,Estrada Brasil,1701,,Vila Mariana,Porto Alegre,RS,90000-879,Comercial
+1001,834,Rua Epitácio Pessoa,1951,Apto 18,Ipanema,Fortaleza,CE,60000-494,Comercial
+1002,834,Rua Paulista,2215,,Copacabana,Salvador,BA,40000-150,Comercial
+1003,835,Alameda do Sol,2998,,Copacabana,Recife,PE,50000-753,Residencial
+1004,836,Praça Epitácio Pessoa,2044,,Centro,Brasília,DF,70000-638,Residencial
+1005,837,Travessa Verde,335,,Centro,Recife,PE,50000-818,Comercial
+1006,838,Avenida do Sol,2853,,Barra da Tijuca,Recife,PE,50000-701,Residencial
+1007,838,Avenida Paulista,44,Apto 4,Centro,Manaus,AM,69000-910,Comercial
+1008,839,Praça Sete de Setembro,2448,Apto 1,Vila Mariana,Fortaleza,CE,60000-385,Residencial
+1009,840,Travessa Paulista,712,Apto 56,Centro,Curitiba,PR,80000-885,Comercial
+1010,841,Avenida Epitácio Pessoa,1817,Apto 87,Pinheiros,Manaus,AM,69000-804,Comercial
+1011,842,Rua Sete de Setembro,532,Apto 75,Ipanema,Manaus,AM,69000-990,Residencial
+1012,843,Estrada das Flores,2083,Apto 35,Barra da Tijuca,Campinas,SP,13000-828,Comercial
+1013,844,Praça Epitácio Pessoa,2473,,Centro,Goiânia,GO,74000-703,Residencial
+1014,844,Rua Paulista,1520,,Vila Mariana,Belo Horizonte,MG,30000-405,Comercial
+1015,845,Rua Atlântica,1240,Apto 89,Savassi,São Paulo,SP,01000-701,Residencial
+1016,846,Avenida das Flores,2075,Apto 38,Boa Viagem,Goiânia,GO,74000-866,Comercial
+1017,847,Praça Epitácio Pessoa,2020,,Centro,Fortaleza,CE,60000-417,Comercial
+1018,848,Alameda Verde,1635,Apto 97,Centro,Curitiba,PR,80000-710,Residencial
+1019,849,Praça Brasil,913,Apto 65,Centro,Belo Horizonte,MG,30000-774,Residencial
+1020,850,Alameda Sete de Setembro,654,Apto 18,Savassi,Salvador,BA,40000-131,Comercial
+1021,851,Avenida Sete de Setembro,2911,Apto 11,Vila Mariana,Rio de Janeiro,RJ,20000-986,Comercial
+1022,852,Avenida Brasil,1016,,Jardins,Recife,PE,50000-248,Residencial
+1023,852,Praça Brasil,837,Apto 83,Barra da Tijuca,São Paulo,SP,01000-121,Residencial
+1024,853,Alameda Sete de Setembro,2491,,Savassi,São Paulo,SP,01000-634,Residencial
+1025,853,Travessa Verde,1453,Apto 27,Savassi,Curitiba,PR,80000-554,Comercial
+1026,854,Praça Atlântica,1610,,Jardins,Salvador,BA,40000-161,Comercial
+1027,854,Avenida XV de Novembro,2475,Apto 23,Centro,Manaus,AM,69000-378,Residencial
+1028,855,Estrada XV de Novembro,328,,Barra da Tijuca,São Paulo,SP,01000-252,Comercial
+1029,856,Avenida Verde,2056,Apto 38,Boa Viagem,Recife,PE,50000-580,Residencial
+1030,857,Rua da Liberdade,838,,Jardins,Brasília,DF,70000-810,Residencial
+1031,858,Estrada do Sol,1283,,Centro,Manaus,AM,69000-757,Residencial
+1032,859,Travessa da Liberdade,2898,,Barra da Tijuca,Rio de Janeiro,RJ,20000-661,Residencial
+1033,860,Rua Paulista,2442,,Copacabana,Fortaleza,CE,60000-141,Comercial
+1034,860,Alameda da Liberdade,2642,,Copacabana,Rio de Janeiro,RJ,20000-929,Comercial
+1035,861,Travessa XV de Novembro,2583,Apto 98,Pinheiros,Porto Alegre,RS,90000-184,Comercial
+1036,862,Rua Epitácio Pessoa,321,,Ipanema,Rio de Janeiro,RJ,20000-529,Comercial
+1037,863,Travessa Atlântica,2499,Apto 11,Barra da Tijuca,Rio de Janeiro,RJ,20000-967,Comercial
+1038,864,Travessa XV de Novembro,1027,,Barra da Tijuca,São Paulo,SP,01000-560,Residencial
+1039,865,Praça das Flores,1903,Apto 3,Asa Sul,Brasília,DF,70000-343,Residencial
+1040,866,Avenida da Liberdade,596,Apto 1,Copacabana,Rio de Janeiro,RJ,20000-982,Residencial
+1041,867,Avenida Epitácio Pessoa,2810,,Savassi,Rio de Janeiro,RJ,20000-568,Residencial
+1042,868,Alameda Atlântica,513,,Copacabana,Fortaleza,CE,60000-558,Residencial
+1043,869,Praça Verde,381,Apto 6,Pinheiros,Salvador,BA,40000-211,Comercial
+1044,870,Estrada do Sol,923,Apto 28,Pinheiros,São Paulo,SP,01000-591,Comercial
+1045,871,Travessa Verde,2902,,Vila Mariana,São Paulo,SP,01000-952,Residencial
+1046,872,Travessa Sete de Setembro,1942,,Pinheiros,Goiânia,GO,74000-577,Comercial
+1047,873,Estrada Atlântica,486,,Jardins,Campinas,SP,13000-313,Comercial
+1048,874,Alameda Verde,859,Apto 94,Boa Viagem,Manaus,AM,69000-406,Residencial
+1049,875,Rua das Flores,1444,Apto 99,Pinheiros,Recife,PE,50000-217,Residencial
+1050,876,Estrada XV de Novembro,861,Apto 90,Ipanema,Curitiba,PR,80000-629,Comercial
+1051,877,Rua das Flores,2371,,Asa Sul,Manaus,AM,69000-603,Residencial
+1052,878,Alameda Paulista,2537,Apto 36,Ipanema,São Paulo,SP,01000-469,Comercial
+1053,879,Estrada XV de Novembro,2596,Apto 8,Ipanema,Curitiba,PR,80000-255,Residencial
+1054,880,Avenida Paulista,836,Apto 75,Jardins,Salvador,BA,40000-418,Comercial
+1055,881,Travessa da Liberdade,866,Apto 88,Pinheiros,São Paulo,SP,01000-395,Comercial
+1056,881,Estrada das Flores,2557,Apto 27,Centro,Recife,PE,50000-573,Comercial
+1057,882,Estrada Paulista,2440,Apto 59,Ipanema,São Paulo,SP,01000-402,Comercial
+1058,882,Avenida Paulista,2843,Apto 39,Barra da Tijuca,Fortaleza,CE,60000-927,Comercial
+1059,883,Avenida Sete de Setembro,1882,Apto 75,Barra da Tijuca,Fortaleza,CE,60000-624,Residencial
+1060,884,Avenida Sete de Setembro,420,,Barra da Tijuca,Manaus,AM,69000-531,Comercial
+1061,885,Praça Paulista,2238,,Barra da Tijuca,Fortaleza,CE,60000-801,Residencial
+1062,886,Alameda Verde,1505,,Boa Viagem,Manaus,AM,69000-942,Residencial
+1063,887,Avenida Epitácio Pessoa,1419,Apto 68,Ipanema,Belo Horizonte,MG,30000-212,Comercial
+1064,888,Rua Brasil,238,,Ipanema,Fortaleza,CE,60000-709,Residencial
+1065,889,Avenida Paulista,1010,,Jardins,Porto Alegre,RS,90000-249,Comercial
+1066,890,Estrada Paulista,2082,,Barra da Tijuca,Manaus,AM,69000-861,Comercial
+1067,891,Rua Verde,1431,Apto 92,Savassi,Fortaleza,CE,60000-808,Comercial
+1068,892,Avenida Sete de Setembro,1655,Apto 80,Vila Mariana,Porto Alegre,RS,90000-689,Residencial
+1069,893,Travessa Brasil,1961,,Pinheiros,Goiânia,GO,74000-741,Comercial
+1070,894,Praça das Flores,1981,Apto 77,Savassi,Manaus,AM,69000-198,Comercial
+1071,895,Avenida Paulista,1507,,Pinheiros,Curitiba,PR,80000-299,Residencial
+1072,895,Rua Paulista,326,Apto 73,Barra da Tijuca,Recife,PE,50000-128,Comercial
+1073,896,Estrada XV de Novembro,1711,,Jardins,Recife,PE,50000-322,Residencial
+1074,897,Avenida do Sol,2476,Apto 28,Centro,Belo Horizonte,MG,30000-748,Residencial
+1075,898,Estrada Sete de Setembro,362,Apto 28,Copacabana,Curitiba,PR,80000-699,Residencial
+1076,899,Estrada Atlântica,1722,Apto 49,Copacabana,Recife,PE,50000-886,Comercial
+1077,899,Avenida das Flores,2211,,Centro,São Paulo,SP,01000-282,Comercial
+1078,900,Avenida Epitácio Pessoa,318,Apto 37,Savassi,Goiânia,GO,74000-566,Residencial
+1079,900,Alameda da Liberdade,644,Apto 77,Boa Viagem,Belo Horizonte,MG,30000-301,Comercial
+1080,901,Estrada Epitácio Pessoa,2210,,Barra da Tijuca,Recife,PE,50000-838,Comercial
+1081,902,Avenida das Flores,855,Apto 39,Vila Mariana,Fortaleza,CE,60000-416,Comercial
+1082,903,Praça Brasil,1930,Apto 32,Barra da Tijuca,Porto Alegre,RS,90000-854,Residencial
+1083,904,Alameda Epitácio Pessoa,2000,Apto 27,Savassi,Salvador,BA,40000-730,Comercial
+1084,905,Praça Epitácio Pessoa,1899,Apto 47,Boa Viagem,Campinas,SP,13000-534,Comercial
+1085,906,Travessa XV de Novembro,23,,Asa Sul,Belo Horizonte,MG,30000-294,Comercial
+1086,907,Travessa Brasil,1719,,Asa Sul,Rio de Janeiro,RJ,20000-987,Residencial
+1087,908,Praça da Liberdade,925,Apto 81,Copacabana,Manaus,AM,69000-243,Residencial
+1088,909,Rua Atlântica,1047,,Boa Viagem,Fortaleza,CE,60000-729,Comercial
+1089,910,Praça do Sol,355,Apto 41,Copacabana,Fortaleza,CE,60000-912,Residencial
+1090,910,Avenida Brasil,2004,,Centro,São Paulo,SP,01000-617,Comercial
+1091,911,Avenida Paulista,2508,Apto 11,Jardins,Rio de Janeiro,RJ,20000-952,Residencial
+1092,912,Estrada do Sol,2482,Apto 39,Centro,Fortaleza,CE,60000-762,Residencial
+1093,912,Praça Atlântica,1146,,Asa Sul,Manaus,AM,69000-635,Residencial
+1094,913,Estrada das Flores,2243,Apto 24,Savassi,Fortaleza,CE,60000-916,Residencial
+1095,914,Avenida Brasil,1768,,Centro,Recife,PE,50000-837,Residencial
+1096,915,Travessa Verde,2406,Apto 59,Ipanema,Rio de Janeiro,RJ,20000-235,Residencial
+1097,916,Estrada Sete de Setembro,830,Apto 83,Asa Sul,Brasília,DF,70000-417,Residencial
+1098,917,Estrada Epitácio Pessoa,372,,Savassi,Belo Horizonte,MG,30000-116,Residencial
+1099,918,Estrada das Flores,360,,Ipanema,Curitiba,PR,80000-326,Residencial
+1100,919,Alameda das Flores,2587,,Ipanema,Campinas,SP,13000-741,Residencial
+1101,920,Estrada Epitácio Pessoa,1179,,Copacabana,Belo Horizonte,MG,30000-979,Comercial
+1102,921,Avenida das Flores,2726,,Savassi,Belo Horizonte,MG,30000-295,Residencial
+1103,922,Rua das Flores,1273,Apto 72,Barra da Tijuca,São Paulo,SP,01000-529,Residencial
+1104,922,Travessa das Flores,1669,,Vila Mariana,Belo Horizonte,MG,30000-179,Comercial
+1105,923,Praça XV de Novembro,2916,,Jardins,Campinas,SP,13000-480,Residencial
+1106,924,Avenida Epitácio Pessoa,2412,Apto 67,Copacabana,Fortaleza,CE,60000-931,Residencial
+1107,925,Rua XV de Novembro,2461,,Vila Mariana,Fortaleza,CE,60000-476,Comercial
+1108,926,Avenida Atlântica,131,Apto 48,Jardins,Rio de Janeiro,RJ,20000-764,Residencial
+1109,927,Rua das Flores,1364,Apto 76,Asa Sul,Campinas,SP,13000-215,Residencial
+1110,928,Travessa Atlântica,1226,,Copacabana,Salvador,BA,40000-689,Comercial
+1111,928,Rua Sete de Setembro,1586,Apto 47,Savassi,Curitiba,PR,80000-485,Comercial
+1112,929,Praça Atlântica,2084,Apto 56,Ipanema,Goiânia,GO,74000-528,Residencial
+1113,929,Alameda Brasil,382,,Asa Sul,Salvador,BA,40000-763,Residencial
+1114,930,Travessa das Flores,295,Apto 18,Savassi,Goiânia,GO,74000-214,Residencial
+1115,931,Travessa das Flores,622,Apto 87,Vila Mariana,Porto Alegre,RS,90000-349,Comercial
+1116,932,Travessa Sete de Setembro,1246,,Ipanema,Curitiba,PR,80000-284,Comercial
+1117,933,Praça do Sol,1848,,Barra da Tijuca,Porto Alegre,RS,90000-272,Comercial
+1118,934,Praça Atlântica,840,,Copacabana,Curitiba,PR,80000-423,Comercial
+1119,934,Estrada da Liberdade,821,Apto 7,Centro,Salvador,BA,40000-422,Comercial
+1120,935,Travessa Sete de Setembro,2505,Apto 9,Vila Mariana,Goiânia,GO,74000-654,Comercial
+1121,935,Praça Atlântica,897,,Ipanema,São Paulo,SP,01000-291,Residencial
+1122,936,Rua do Sol,551,Apto 77,Barra da Tijuca,Manaus,AM,69000-978,Residencial
+1123,936,Avenida do Sol,561,Apto 17,Barra da Tijuca,Belo Horizonte,MG,30000-301,Residencial
+1124,937,Estrada Paulista,2548,,Vila Mariana,Rio de Janeiro,RJ,20000-278,Comercial
+1125,938,Rua Paulista,1386,Apto 2,Centro,Recife,PE,50000-256,Residencial
+1126,939,Travessa da Liberdade,2621,,Savassi,Salvador,BA,40000-384,Residencial
+1127,940,Rua Atlântica,2713,,Savassi,Goiânia,GO,74000-657,Comercial
+1128,940,Rua Sete de Setembro,1384,Apto 68,Centro,São Paulo,SP,01000-466,Comercial
+1129,941,Travessa Paulista,2353,,Savassi,Salvador,BA,40000-730,Residencial
+1130,942,Avenida Atlântica,2992,Apto 12,Ipanema,Porto Alegre,RS,90000-781,Residencial
+1131,943,Avenida Atlântica,623,,Jardins,Brasília,DF,70000-525,Residencial
+1132,943,Praça Paulista,1621,,Ipanema,Curitiba,PR,80000-155,Residencial
+1133,944,Praça da Liberdade,1808,Apto 12,Jardins,Porto Alegre,RS,90000-771,Residencial
+1134,945,Praça das Flores,1258,Apto 22,Vila Mariana,Salvador,BA,40000-734,Comercial
+1135,946,Estrada Atlântica,2103,,Asa Sul,Campinas,SP,13000-477,Residencial
+1136,946,Avenida XV de Novembro,2666,Apto 45,Vila Mariana,Goiânia,GO,74000-341,Comercial
+1137,947,Avenida da Liberdade,2926,Apto 58,Vila Mariana,Belo Horizonte,MG,30000-771,Residencial
+1138,948,Avenida Atlântica,773,,Centro,Curitiba,PR,80000-298,Residencial
+1139,949,Praça do Sol,2618,,Copacabana,Porto Alegre,RS,90000-867,Residencial
+1140,950,Travessa das Flores,2160,Apto 42,Boa Viagem,Fortaleza,CE,60000-238,Comercial
+1141,950,Praça Paulista,525,,Pinheiros,Fortaleza,CE,60000-235,Residencial
+1142,951,Rua Verde,2162,,Savassi,Campinas,SP,13000-377,Residencial
+1143,952,Avenida Epitácio Pessoa,348,Apto 21,Asa Sul,Rio de Janeiro,RJ,20000-817,Residencial
+1144,953,Alameda XV de Novembro,209,,Copacabana,Fortaleza,CE,60000-968,Comercial
+1145,954,Estrada Brasil,845,,Jardins,Brasília,DF,70000-376,Comercial
+1146,955,Praça do Sol,1904,Apto 4,Asa Sul,São Paulo,SP,01000-796,Comercial
+1147,956,Estrada Paulista,44,,Vila Mariana,Goiânia,GO,74000-507,Residencial
+1148,957,Praça Atlântica,355,Apto 48,Pinheiros,Belo Horizonte,MG,30000-667,Comercial
+1149,958,Praça Verde,284,Apto 84,Copacabana,São Paulo,SP,01000-735,Residencial
+1150,959,Avenida XV de Novembro,1770,Apto 42,Barra da Tijuca,São Paulo,SP,01000-749,Residencial
+1151,959,Praça Atlântica,901,Apto 77,Asa Sul,Recife,PE,50000-897,Residencial
+1152,960,Rua Sete de Setembro,2133,,Boa Viagem,Curitiba,PR,80000-432,Residencial
+1153,961,Alameda XV de Novembro,2135,Apto 61,Boa Viagem,Goiânia,GO,74000-289,Comercial
+1154,962,Travessa Atlântica,912,Apto 60,Copacabana,Porto Alegre,RS,90000-357,Comercial
+1155,963,Avenida Verde,884,,Asa Sul,Manaus,AM,69000-785,Comercial
+1156,964,Rua Verde,2927,Apto 100,Barra da Tijuca,Campinas,SP,13000-528,Residencial
+1157,965,Rua Atlântica,2005,Apto 55,Savassi,Brasília,DF,70000-652,Residencial
+1158,965,Estrada Paulista,139,Apto 78,Vila Mariana,Goiânia,GO,74000-271,Comercial
+1159,966,Avenida da Liberdade,333,Apto 51,Asa Sul,Goiânia,GO,74000-473,Comercial
+1160,966,Alameda das Flores,249,Apto 95,Centro,Porto Alegre,RS,90000-636,Comercial
+1161,967,Avenida Brasil,2308,Apto 33,Savassi,Curitiba,PR,80000-866,Residencial
+1162,968,Avenida Verde,1827,Apto 74,Asa Sul,Fortaleza,CE,60000-700,Residencial
+1163,969,Praça Epitácio Pessoa,192,,Boa Viagem,Manaus,AM,69000-262,Residencial
+1164,970,Avenida da Liberdade,853,,Centro,Curitiba,PR,80000-815,Residencial
+1165,971,Rua das Flores,1305,Apto 50,Boa Viagem,Manaus,AM,69000-324,Comercial
+1166,972,Rua Atlântica,2492,,Asa Sul,Belo Horizonte,MG,30000-851,Residencial
+1167,973,Avenida Atlântica,2678,Apto 40,Copacabana,Belo Horizonte,MG,30000-655,Residencial
+1168,973,Estrada Brasil,2267,,Copacabana,Salvador,BA,40000-329,Comercial
+1169,974,Travessa das Flores,2909,Apto 90,Barra da Tijuca,Salvador,BA,40000-519,Comercial
+1170,974,Travessa Sete de Setembro,1726,Apto 92,Centro,Porto Alegre,RS,90000-299,Comercial
+1171,975,Travessa Sete de Setembro,1005,Apto 44,Vila Mariana,Salvador,BA,40000-351,Comercial
+1172,976,Travessa XV de Novembro,1206,,Copacabana,Recife,PE,50000-308,Comercial
+1173,977,Rua Epitácio Pessoa,985,Apto 83,Pinheiros,Rio de Janeiro,RJ,20000-913,Comercial
+1174,977,Avenida Brasil,1864,,Savassi,Porto Alegre,RS,90000-585,Residencial
+1175,978,Rua da Liberdade,1155,Apto 99,Vila Mariana,Belo Horizonte,MG,30000-356,Comercial
+1176,979,Travessa Verde,180,,Vila Mariana,Brasília,DF,70000-266,Comercial
+1177,980,Praça Brasil,2691,Apto 19,Centro,Goiânia,GO,74000-840,Residencial
+1178,981,Travessa Atlântica,1919,Apto 10,Vila Mariana,Recife,PE,50000-602,Comercial
+1179,982,Avenida Sete de Setembro,482,Apto 72,Jardins,Curitiba,PR,80000-447,Comercial
+1180,983,Alameda do Sol,315,Apto 51,Vila Mariana,Salvador,BA,40000-781,Comercial
+1181,984,Travessa Atlântica,324,Apto 85,Vila Mariana,Manaus,AM,69000-591,Comercial
+1182,985,Alameda Verde,2441,,Ipanema,Rio de Janeiro,RJ,20000-445,Comercial
+1183,985,Rua Atlântica,620,Apto 20,Pinheiros,Belo Horizonte,MG,30000-398,Comercial
+1184,986,Praça XV de Novembro,1663,Apto 2,Copacabana,Brasília,DF,70000-736,Residencial
+1185,987,Estrada Epitácio Pessoa,1502,Apto 48,Jardins,Rio de Janeiro,RJ,20000-926,Residencial
+1186,988,Travessa Verde,1508,Apto 74,Barra da Tijuca,Belo Horizonte,MG,30000-195,Comercial
+1187,989,Rua Verde,1479,,Savassi,Curitiba,PR,80000-241,Comercial
+1188,990,Praça do Sol,755,Apto 1,Barra da Tijuca,Fortaleza,CE,60000-429,Comercial
+1189,991,Avenida XV de Novembro,1228,,Asa Sul,Porto Alegre,RS,90000-588,Comercial
+1190,992,Alameda das Flores,2840,Apto 61,Pinheiros,Brasília,DF,70000-661,Comercial
+1191,993,Alameda Brasil,1758,Apto 16,Ipanema,Recife,PE,50000-819,Comercial
+1192,994,Alameda Verde,1239,Apto 51,Boa Viagem,Campinas,SP,13000-321,Residencial
+1193,995,Alameda XV de Novembro,579,,Savassi,Recife,PE,50000-924,Residencial
+1194,996,Alameda Atlântica,2912,,Pinheiros,Recife,PE,50000-491,Residencial
+1195,997,Praça Paulista,249,,Centro,Belo Horizonte,MG,30000-332,Comercial
+1196,998,Alameda Atlântica,2475,Apto 7,Centro,Rio de Janeiro,RJ,20000-915,Residencial
+1197,999,Travessa das Flores,319,,Pinheiros,Belo Horizonte,MG,30000-389,Comercial
+1198,1000,Rua das Flores,2529,Apto 60,Copacabana,Belo Horizonte,MG,30000-410,Comercial
